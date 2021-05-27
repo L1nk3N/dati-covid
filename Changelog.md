@@ -4,21 +4,7 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 ## 28/05/2021
-La pubblicazione dei dati è stata ricondotta alla sola fascia d'età attraverso il campo **fascia_anagrafica** già presente nel set di dati. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
-
-**Campi Rimossi**
-| Campo | Tipo Dati | Descrizione |
-|--|--|--|
-| categoria_over80 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_soggetti_fragili | integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
-| categoria_operatori_sanitari_sociosanitari | integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
-| categoria_personale_non_sanitario | integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
-| categoria_ospiti_rsa | integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
-| categoria_70_79 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_60_69 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_personale_scolastico | integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
-| categoria_forze_armate | integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
-| categoria_altro | integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
+La pubblicazione dei dati è stata ricondotta alla sola fascia d'età. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
 ## 20/04/2021
 Aggiunti i campi **categoria_60_69**, **categoria_70_79** e **categoria_soggetti_fragili** all'interno dei file `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
