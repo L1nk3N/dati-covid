@@ -4,7 +4,7 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 ## 28/05/2021
-La pubblicazione dei dati è stata ricondotta alla sola fascia d'età. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+La pubblicazione dei dati è stata ricondotta alla sola fascia d'età attraverso il campo **fascia_anagrafica** già presente nel set di dati. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
 **Campi Rimossi**
 | Campo | Tipo Dati | Descrizione |
