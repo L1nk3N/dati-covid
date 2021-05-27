@@ -80,7 +80,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
-| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
 **somministrazioni-vaccini-summary-latest**
 
