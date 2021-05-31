@@ -2,7 +2,7 @@
 <h1 align="center">Covid-19 Opendata Vaccini</h1>
 
 <div align="center">
-<img src="logo.png" width="150">
+<img src="coccarda.png" width="150">
 </div>
 <div align="center">
   Questo repository contiene i dati in formato aperto relativi ai vaccini anti COVID-19
