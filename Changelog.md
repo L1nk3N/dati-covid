@@ -4,6 +4,8 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 ## 02/06/2021
+Il valore **16-19** per il campo 'fascia_anagrafica' sarà modificato in **12-19**. La modifica ha interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
 Verrà aggiunto il file `platea` che definisce la popolazione interessata a ciclo vaccinale suddivisa per regione e fascia d'età.
 
 | Campo | Tipo di dati | Descrizione |
