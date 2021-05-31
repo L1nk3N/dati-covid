@@ -42,13 +42,13 @@
     "data":[
         {
             "index":0,
-            "fascia_anagrafica":"16-19",
+            "fascia_anagrafica":"12-19",
             "totale":94534,
             "sesso_maschile":48707,
             "sesso_femminile":45827,
             "prima_dose":69201,
             "seconda_dose":25333,
-            "ultimo_aggiornamento":"2021-05-30T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-05-31T00:00:00.000Z"
         },
         {
             "index":1,
@@ -58,7 +58,7 @@
             "sesso_femminile":720415,
             "prima_dose":806874,
             "seconda_dose":417584,
-            "ultimo_aggiornamento":"2021-05-30T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-05-31T00:00:00.000Z"
         },
         {
             "index":2,
@@ -68,7 +68,7 @@
             "sesso_femminile":970956,
             "prima_dose":1100193,
             "seconda_dose":585997,
-            "ultimo_aggiornamento":"2021-05-30T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-05-31T00:00:00.000Z"
         },
         {
             "index":3,
@@ -78,7 +78,7 @@
             "sesso_femminile":1572573,
             "prima_dose":1797782,
             "seconda_dose":853692,
-            "ultimo_aggiornamento":"2021-05-30T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-05-31T00:00:00.000Z"
         },
         {
             "index":4,
@@ -88,7 +88,7 @@
             "sesso_femminile":2634424,
             "prima_dose":3465029,
             "seconda_dose":1231059,
-            "ultimo_aggiornamento":"2021-05-30T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-05-31T00:00:00.000Z"
         },
         {
             "index":5,
@@ -98,7 +98,7 @@
             "sesso_femminile":3204037,
             "prima_dose":4901672,
             "seconda_dose":1360328,
-            "ultimo_aggiornamento":"2021-05-30T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-05-31T00:00:00.000Z"
         },
         {
             "index":6,
@@ -108,7 +108,7 @@
             "sesso_femminile":3358434,
             "prima_dose":4819801,
             "seconda_dose":1641684,
-            "ultimo_aggiornamento":"2021-05-30T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-05-31T00:00:00.000Z"
         },
         {
             "index":7,
@@ -118,7 +118,7 @@
             "sesso_femminile":3661737,
             "prima_dose":3313027,
             "seconda_dose":2980089,
-            "ultimo_aggiornamento":"2021-05-30T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-05-31T00:00:00.000Z"
         },
         {
             "index":8,
@@ -128,7 +128,7 @@
             "sesso_femminile":984039,
             "prima_dose":757486,
             "seconda_dose":652955,
-            "ultimo_aggiornamento":"2021-05-30T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-05-31T00:00:00.000Z"
         }
     ]
 }
