@@ -32,8 +32,19 @@ Nella cartella dati si possono trovare 6 tabelle in formato json e csv:
 *   **punti-somministrazione-latest**: punti di somministrazione per ciascuna Regione e Provincia Autonoma.
 *   **anagrafica-vaccini-summary-latest**: totali delle somministrazioni per fasce d'età.
 *   **last-update-dataset**: data e ora di ultimo aggiornamento del dataset.
+*   **platea**: dati riferiti alla popolazione soggetta a ciclo vaccinale.
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole:
+
+**platea**
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della regione di consegna. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| fascia_anagrafica | string | Identifica la fascia anagrafiche in cui appartengono i soggetti a cui è stato somministrato il vaccino. |
+| totale_popolazione | integer | Numero totale della popolazione presente in platea per una data fascia d'età |
 
 **consegne-vaccini-latest**
 
