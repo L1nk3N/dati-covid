@@ -9,9 +9,9 @@ Verrà aggiunto il file `platea` che definisce la popolazione interessata a cicl
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | index | integer | Codice identificativo del record. |
-| area | string | Sigla della regione. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
 | nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
-| fascia_anagrafica | string | Identifica la fascia anagrafiche in cui appartengono i soggetti a cui è stato somministrato il vaccino. |
+| fascia_anagrafica | string | Identifica la fascia anagrafiche a cui appartengono i soggetti vaccinabili. |
 | totale_popolazione | integer | Numero totale della popolazione presente in platea per una data fascia d'età |
 
 ## 28/05/2021
