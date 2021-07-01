@@ -142,17 +142,6 @@
             "seconda_dose":720778,
             "pregressa_infezione":4391,
             "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
-        },
-        {
-            "index":9,
-            "fascia_anagrafica":"under 16",
-            "totale":179741,
-            "sesso_maschile":90356,
-            "sesso_femminile":89385,
-            "prima_dose":178405,
-            "seconda_dose":719,
-            "pregressa_infezione":617,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
         }
     ]
 }
