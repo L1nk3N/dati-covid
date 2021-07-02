@@ -47,12 +47,12 @@
         {
             "index":0,
             "fascia_anagrafica":"12-19",
-            "totale":932815,
-            "sesso_maschile":459459,
-            "sesso_femminile":473356,
-            "prima_dose":858430,
-            "seconda_dose":71946,
-            "pregressa_infezione":2439,
+            "totale":753074,
+            "sesso_maschile":369103,
+            "sesso_femminile":383971,
+            "prima_dose":680025,
+            "seconda_dose":71227,
+            "pregressa_infezione":1822,
             "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
         },
         {
@@ -123,13 +123,24 @@
         },
         {
             "index":7,
-            "fascia_anagrafica":"80+",
-            "totale":8125104,
-            "sesso_maschile":3199286,
-            "sesso_femminile":4925818,
-            "prima_dose":4186047,
-            "seconda_dose":3920886,
-            "pregressa_infezione":18171,
+            "fascia_anagrafica":"80-89",
+            "totale":6614270,
+            "sesso_maschile":2747670,
+            "sesso_femminile":3866600,
+            "prima_dose":3400382,
+            "seconda_dose":3200108,
+            "pregressa_infezione":13780,
+            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+        },
+        {
+            "index":8,
+            "fascia_anagrafica":"90+",
+            "totale":1510834,
+            "sesso_maschile":451616,
+            "sesso_femminile":1059218,
+            "prima_dose":785665,
+            "seconda_dose":720778,
+            "pregressa_infezione":4391,
             "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
         }
     ]
