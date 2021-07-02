@@ -4,7 +4,8 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 ## 05/07/2021
-Verrà aggiunto il valore **pregressa_infezione** che identifica il numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale. La modifica interesserà il file `somministrazioni-vaccini-latest`.
+Verrà aggiunto il valore **pregressa_infezione** che identifica il numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale |
