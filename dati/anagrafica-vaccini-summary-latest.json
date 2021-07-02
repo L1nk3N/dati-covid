@@ -47,13 +47,13 @@
         {
             "index":0,
             "fascia_anagrafica":"12-19",
-            "totale":753074,
-            "sesso_maschile":369103,
-            "sesso_femminile":383971,
-            "prima_dose":680025,
-            "seconda_dose":71227,
-            "pregressa_infezione":1822,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+            "totale":932815,
+            "sesso_maschile":459459,
+            "sesso_femminile":473356,
+            "prima_dose":858430,
+            "seconda_dose":71946,
+            "pregressa_infezione":2439,
+            "ultimo_aggiornamento":"2021-07-02T00:00:00.000Z"
         },
         {
             "index":1,
@@ -64,7 +64,7 @@
             "prima_dose":2422712,
             "seconda_dose":756118,
             "pregressa_infezione":9442,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-07-02T00:00:00.000Z"
         },
         {
             "index":2,
@@ -75,7 +75,7 @@
             "prima_dose":3141822,
             "seconda_dose":1029889,
             "pregressa_infezione":12397,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-07-02T00:00:00.000Z"
         },
         {
             "index":3,
@@ -86,7 +86,7 @@
             "prima_dose":5135168,
             "seconda_dose":1714506,
             "pregressa_infezione":26100,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-07-02T00:00:00.000Z"
         },
         {
             "index":4,
@@ -97,7 +97,7 @@
             "prima_dose":6853454,
             "seconda_dose":3247032,
             "pregressa_infezione":38848,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-07-02T00:00:00.000Z"
         },
         {
             "index":5,
@@ -108,7 +108,7 @@
             "prima_dose":6041398,
             "seconda_dose":3197481,
             "pregressa_infezione":30891,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-07-02T00:00:00.000Z"
         },
         {
             "index":6,
@@ -119,7 +119,7 @@
             "prima_dose":5201916,
             "seconda_dose":3246463,
             "pregressa_infezione":23489,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-07-02T00:00:00.000Z"
         },
         {
             "index":7,
@@ -130,7 +130,7 @@
             "prima_dose":3400382,
             "seconda_dose":3200108,
             "pregressa_infezione":13780,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-07-02T00:00:00.000Z"
         },
         {
             "index":8,
@@ -141,7 +141,7 @@
             "prima_dose":785665,
             "seconda_dose":720778,
             "pregressa_infezione":4391,
-            "ultimo_aggiornamento":"2021-07-01T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-07-02T00:00:00.000Z"
         }
     ]
 }
