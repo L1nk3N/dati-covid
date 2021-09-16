@@ -1,0 +1,169 @@
+area,nome_area,fascia_anagrafica,totale_popolazione
+ABR,Abruzzo,12-19,9470
+ABR,Abruzzo,20-29,12522
+ABR,Abruzzo,30-39,14695
+ABR,Abruzzo,40-49,18715
+ABR,Abruzzo,50-59,20868
+ABR,Abruzzo,60-69,17178
+ABR,Abruzzo,70-79,13740
+ABR,Abruzzo,80+,11694
+BAS,Basilicata,12-19,4094
+BAS,Basilicata,20-29,5627
+BAS,Basilicata,30-39,6102
+BAS,Basilicata,40-49,7498
+BAS,Basilicata,50-59,8813
+BAS,Basilicata,60-69,7544
+BAS,Basilicata,70-79,5180
+BAS,Basilicata,80+,4623
+CAL,Calabria,12-19,14739
+CAL,Calabria,20-29,19974
+CAL,Calabria,30-39,22363
+CAL,Calabria,40-49,26018
+CAL,Calabria,50-59,28735
+CAL,Calabria,60-69,24696
+CAL,Calabria,70-79,18589
+CAL,Calabria,80+,13851
+CAM,Campania,12-19,50606
+CAM,Campania,20-29,68353
+CAM,Campania,30-39,71291
+CAM,Campania,40-49,82834
+CAM,Campania,50-59,89140
+CAM,Campania,60-69,70032
+CAM,Campania,70-79,47742
+CAM,Campania,80+,30431
+EMR,Emilia-Romagna,12-19,32740
+EMR,Emilia-Romagna,20-29,41990
+EMR,Emilia-Romagna,30-39,48892
+EMR,Emilia-Romagna,40-49,66776
+EMR,Emilia-Romagna,50-59,71713
+EMR,Emilia-Romagna,60-69,55123
+EMR,Emilia-Romagna,70-79,45590
+EMR,Emilia-Romagna,80+,36830
+FVG,Friuli-Venezia Giulia,12-19,8554
+FVG,Friuli-Venezia Giulia,20-29,10814
+FVG,Friuli-Venezia Giulia,30-39,12170
+FVG,Friuli-Venezia Giulia,40-49,17001
+FVG,Friuli-Venezia Giulia,50-59,19915
+FVG,Friuli-Venezia Giulia,60-69,15763
+FVG,Friuli-Venezia Giulia,70-79,14023
+FVG,Friuli-Venezia Giulia,80+,10567
+LAZ,Lazio,12-19,43121
+LAZ,Lazio,20-29,55885
+LAZ,Lazio,30-39,66563
+LAZ,Lazio,40-49,87990
+LAZ,Lazio,50-59,94046
+LAZ,Lazio,60-69,70769
+LAZ,Lazio,70-79,55144
+LAZ,Lazio,80+,41228
+LIG,Liguria,12-19,10405
+LIG,Liguria,20-29,13568
+LIG,Liguria,30-39,14926
+LIG,Liguria,40-49,20562
+LIG,Liguria,50-59,25862
+LIG,Liguria,60-69,20739
+LIG,Liguria,70-79,18249
+LIG,Liguria,80+,15626
+LOM,Lombardia,12-19,79447
+LOM,Lombardia,20-29,99744
+LOM,Lombardia,30-39,119894
+LOM,Lombardia,40-49,156554
+LOM,Lombardia,50-59,167762
+LOM,Lombardia,60-69,124091
+LOM,Lombardia,70-79,100655
+LOM,Lombardia,80+,76525
+MAR,Marche,12-19,11304
+MAR,Marche,20-29,14307
+MAR,Marche,30-39,16230
+MAR,Marche,40-49,22129
+MAR,Marche,50-59,24093
+MAR,Marche,60-69,19647
+MAR,Marche,70-79,15593
+MAR,Marche,80+,13335
+MOL,Molise,12-19,2048
+MOL,Molise,20-29,3212
+MOL,Molise,30-39,3465
+MOL,Molise,40-49,4026
+MOL,Molise,50-59,4672
+MOL,Molise,60-69,4092
+MOL,Molise,70-79,3090
+MOL,Molise,80+,2721
+PAB,P.A. Bolzano,12-19,4553
+PAB,P.A. Bolzano,20-29,5956
+PAB,P.A. Bolzano,30-39,6173
+PAB,P.A. Bolzano,40-49,7444
+PAB,P.A. Bolzano,50-59,8479
+PAB,P.A. Bolzano,60-69,5891
+PAB,P.A. Bolzano,70-79,4641
+PAB,P.A. Bolzano,80+,3372
+PAT,P.A. Trento,12-19,4425
+PAT,P.A. Trento,20-29,5729
+PAT,P.A. Trento,30-39,5984
+PAT,P.A. Trento,40-49,7484
+PAT,P.A. Trento,50-59,8573
+PAT,P.A. Trento,60-69,6804
+PAT,P.A. Trento,70-79,5249
+PAT,P.A. Trento,80+,3839
+PIE,Piemonte,12-19,31045
+PIE,Piemonte,20-29,41026
+PIE,Piemonte,30-39,45685
+PIE,Piemonte,40-49,61382
+PIE,Piemonte,50-59,70408
+PIE,Piemonte,60-69,56747
+PIE,Piemonte,70-79,48483
+PIE,Piemonte,80+,37979
+PUG,Puglia,12-19,32118
+PUG,Puglia,20-29,42922
+PUG,Puglia,30-39,45788
+PUG,Puglia,40-49,58391
+PUG,Puglia,50-59,62620
+PUG,Puglia,60-69,49433
+PUG,Puglia,70-79,39526
+PUG,Puglia,80+,27294
+SAR,Sardegna,12-19,10938
+SAR,Sardegna,20-29,14492
+SAR,Sardegna,30-39,18022
+SAR,Sardegna,40-49,24843
+SAR,Sardegna,50-59,27124
+SAR,Sardegna,60-69,23002
+SAR,Sardegna,70-79,17574
+SAR,Sardegna,80+,12476
+SIC,Sicilia,12-19,40658
+SIC,Sicilia,20-29,54404
+SIC,Sicilia,30-39,58381
+SIC,Sicilia,40-49,69441
+SIC,Sicilia,50-59,75587
+SIC,Sicilia,60-69,63104
+SIC,Sicilia,70-79,47660
+SIC,Sicilia,80+,34290
+TOS,Toscana,12-19,27034
+TOS,Toscana,20-29,33912
+TOS,Toscana,30-39,39805
+TOS,Toscana,40-49,54664
+TOS,Toscana,50-59,60362
+TOS,Toscana,60-69,46727
+TOS,Toscana,70-79,40646
+TOS,Toscana,80+,32606
+UMB,Umbria,12-19,6360
+UMB,Umbria,20-29,7832
+UMB,Umbria,30-39,9213
+UMB,Umbria,40-49,12368
+UMB,Umbria,50-59,13634
+UMB,Umbria,60-69,11265
+UMB,Umbria,70-79,9764
+UMB,Umbria,80+,8598
+VDA,Valle d'Aosta,12-19,933
+VDA,Valle d'Aosta,20-29,1147
+VDA,Valle d'Aosta,30-39,1247
+VDA,Valle d'Aosta,40-49,1724
+VDA,Valle d'Aosta,50-59,2083
+VDA,Valle d'Aosta,60-69,1619
+VDA,Valle d'Aosta,70-79,1302
+VDA,Valle d'Aosta,80+,974
+VEN,Veneto,12-19,38126
+VEN,Veneto,20-29,47935
+VEN,Veneto,30-39,52521
+VEN,Veneto,40-49,71733
+VEN,Veneto,50-59,80646
+VEN,Veneto,60-69,61062
+VEN,Veneto,70-79,49471
+VEN,Veneto,80+,36531
