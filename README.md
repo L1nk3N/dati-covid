@@ -22,7 +22,7 @@ Questo repository contiene i dati in formato aperto relativi alla consegna e som
 
 # Descrizione dataset
 
-Nella cartella dati si possono trovare 8 tabelle in formato json e csv:
+Nella cartella dati si possono trovare 9 tabelle in formato json e csv:
 
 
 *   **consegne-vaccini-latest**: dati sul totale delle consegne giornaliere dei vaccini suddivise per regioni.
@@ -33,6 +33,8 @@ Nella cartella dati si possono trovare 8 tabelle in formato json e csv:
 *   **anagrafica-vaccini-summary-latest**: totali delle somministrazioni per fasce d'età.
 *   **last-update-dataset**: data e ora di ultimo aggiornamento del dataset.
 *   **platea**: dati riferiti alla popolazione vaccinabile suddivisi per Regione/Provincia Autonoma e fascia d'età.
+*   **platea-dose-aggiuntiva**: dati riferiti alla popolazione oggetto di dose aggiuntiva suddivisi per Regione/Provincia Autonoma e categoria prevalente.
+
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 
@@ -73,17 +75,17 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | area | string | Sigla della regione di consegna. |
 | fornitore | string | nome completo del fornitore del vaccino. |
 | data_somministrazione | datetime | Data di somministrazione. |
-| fascia_anagrafica | string | Identifica la fascia anagrafiche in cui appartengono i soggetti a cui è stato somministrato il vaccino. |
+| fascia_anagrafica | string | Identifica la fascia anagrafica alla quale appartengono i soggetti a cui è stato somministrato il vaccino. |
 | sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
 | sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
+| dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva. |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
 | nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
-
 
 **somministrazioni-vaccini-summary-latest**
 
@@ -98,6 +100,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
+| dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva. |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
@@ -126,6 +129,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
+| dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva. |
 
 **last-update-dataset**
 
@@ -140,8 +144,20 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | index | integer | Codice identificativo del record. |
 | area | string | Sigla della Regione/Provincia Autonoma. |
 | nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
-| fascia_anagrafica | string | Identifica la fascia anagrafiche in cui appartengono i soggetti vaccinabili. |
+| fascia_anagrafica | string | Fascia anagrafica a cui appartengono i soggetti vaccinabili. |
 | totale_popolazione | integer | Numero totale della popolazione presente in platea per una data fascia d'età |
+
+**platea-dose-aggiuntiva**
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose aggiuntiva. |
+| totale_popolazione | integer | Numero totale della popolazione presente in platea per Regione/Provincia Autonoma, categoria prevalente |
+
+
 # Maintainer
 
 * datateam-opendata - utenza appertenente alla Struttura Commissariale per l'Emergenza Covid-19
