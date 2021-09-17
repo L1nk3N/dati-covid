@@ -30,11 +30,11 @@
                 "type":"integer"
             },
             {
-                "name":"dose_aggiuntiva",
+                "name":"pregressa_infezione",
                 "type":"integer"
             },
             {
-                "name":"pregressa_infezione",
+                "name":"dose_aggiuntiva",
                 "type":"integer"
             },
             {
@@ -56,9 +56,9 @@
             "sesso_femminile":2424358,
             "prima_dose":2917396,
             "seconda_dose":1928616,
-            "dose_aggiuntiva":0,
             "pregressa_infezione":73586,
-            "ultimo_aggiornamento":"2021-09-15T00:00:00.000Z"
+            "dose_aggiuntiva":0,
+            "ultimo_aggiornamento":"2021-09-17T00:00:00.000Z"
         },
         {
             "index":1,
@@ -68,9 +68,9 @@
             "sesso_femminile":4156970,
             "prima_dose":4621308,
             "seconda_dose":3787555,
-            "dose_aggiuntiva":0,
             "pregressa_infezione":148711,
-            "ultimo_aggiornamento":"2021-09-15T00:00:00.000Z"
+            "dose_aggiuntiva":0,
+            "ultimo_aggiornamento":"2021-09-17T00:00:00.000Z"
         },
         {
             "index":2,
@@ -80,9 +80,9 @@
             "sesso_femminile":4451607,
             "prima_dose":4862760,
             "seconda_dose":4067974,
-            "dose_aggiuntiva":0,
             "pregressa_infezione":156592,
-            "ultimo_aggiornamento":"2021-09-15T00:00:00.000Z"
+            "dose_aggiuntiva":0,
+            "ultimo_aggiornamento":"2021-09-17T00:00:00.000Z"
         },
         {
             "index":3,
@@ -92,9 +92,9 @@
             "sesso_femminile":6312531,
             "prima_dose":6485570,
             "seconda_dose":5688305,
-            "dose_aggiuntiva":0,
             "pregressa_infezione":223826,
-            "ultimo_aggiornamento":"2021-09-15T00:00:00.000Z"
+            "dose_aggiuntiva":0,
+            "ultimo_aggiornamento":"2021-09-17T00:00:00.000Z"
         },
         {
             "index":4,
@@ -104,9 +104,9 @@
             "sesso_femminile":7547403,
             "prima_dose":7626557,
             "seconda_dose":6792599,
-            "dose_aggiuntiva":0,
             "pregressa_infezione":287027,
-            "ultimo_aggiornamento":"2021-09-15T00:00:00.000Z"
+            "dose_aggiuntiva":0,
+            "ultimo_aggiornamento":"2021-09-17T00:00:00.000Z"
         },
         {
             "index":5,
@@ -116,9 +116,9 @@
             "sesso_femminile":6351312,
             "prima_dose":6378208,
             "seconda_dose":5719661,
-            "dose_aggiuntiva":0,
             "pregressa_infezione":206581,
-            "ultimo_aggiornamento":"2021-09-15T00:00:00.000Z"
+            "dose_aggiuntiva":0,
+            "ultimo_aggiornamento":"2021-09-17T00:00:00.000Z"
         },
         {
             "index":6,
@@ -128,9 +128,9 @@
             "sesso_femminile":5589479,
             "prima_dose":5333086,
             "seconda_dose":5048576,
-            "dose_aggiuntiva":0,
             "pregressa_infezione":147062,
-            "ultimo_aggiornamento":"2021-09-15T00:00:00.000Z"
+            "dose_aggiuntiva":0,
+            "ultimo_aggiornamento":"2021-09-17T00:00:00.000Z"
         },
         {
             "index":7,
@@ -140,9 +140,9 @@
             "sesso_femminile":4004842,
             "prima_dose":3422859,
             "seconda_dose":3339203,
-            "dose_aggiuntiva":0,
             "pregressa_infezione":74232,
-            "ultimo_aggiornamento":"2021-09-15T00:00:00.000Z"
+            "dose_aggiuntiva":0,
+            "ultimo_aggiornamento":"2021-09-17T00:00:00.000Z"
         },
         {
             "index":8,
@@ -152,9 +152,9 @@
             "sesso_femminile":1099501,
             "prima_dose":789845,
             "seconda_dose":756188,
-            "dose_aggiuntiva":0,
             "pregressa_infezione":18975,
-            "ultimo_aggiornamento":"2021-09-15T00:00:00.000Z"
+            "dose_aggiuntiva":0,
+            "ultimo_aggiornamento":"2021-09-17T00:00:00.000Z"
         }
     ]
 }
