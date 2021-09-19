@@ -40,7 +40,7 @@
             "area":"BAS",
             "nome_area":"Basilicata",
             "categoria_prevalente":"Immunocompromessi",
-            "totale_popolazione":20000
+            "totale_popolazione":20004
         },
         {
             "index":2,
@@ -61,14 +61,14 @@
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "categoria_prevalente":"Immunocompromessi",
-            "totale_popolazione":80000
+            "totale_popolazione":53217
         },
         {
             "index":5,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "categoria_prevalente":"Immunocompromessi",
-            "totale_popolazione":2360
+            "totale_popolazione":14836
         },
         {
             "index":6,
@@ -103,7 +103,7 @@
             "area":"MOL",
             "nome_area":"Molise",
             "categoria_prevalente":"Immunocompromessi",
-            "totale_popolazione":8893
+            "totale_popolazione":7055
         },
         {
             "index":11,
@@ -145,14 +145,14 @@
             "area":"SIC",
             "nome_area":"Sicilia",
             "categoria_prevalente":"Immunocompromessi",
-            "totale_popolazione":90000
+            "totale_popolazione":33040
         },
         {
             "index":17,
             "area":"TOS",
             "nome_area":"Toscana",
             "categoria_prevalente":"Immunocompromessi",
-            "totale_popolazione":45000
+            "totale_popolazione":50520
         },
         {
             "index":18,
