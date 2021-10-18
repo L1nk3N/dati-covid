@@ -61,9 +61,9 @@
             "prima_dose":3162565,
             "seconda_dose":2830803,
             "pregressa_infezione":98513,
-            "dose_aggiuntiva":0,
-            "dose_booster":580,
-            "ultimo_aggiornamento":"2021-10-15T00:00:00.000Z"
+            "dose_aggiuntiva":539,
+            "dose_booster":41,
+            "ultimo_aggiornamento":"2021-10-16T00:00:00.000Z"
         },
         {
             "index":1,
@@ -74,9 +74,9 @@
             "prima_dose":4989866,
             "seconda_dose":4427494,
             "pregressa_infezione":191078,
-            "dose_aggiuntiva":0,
-            "dose_booster":7278,
-            "ultimo_aggiornamento":"2021-10-15T00:00:00.000Z"
+            "dose_aggiuntiva":2838,
+            "dose_booster":4440,
+            "ultimo_aggiornamento":"2021-10-16T00:00:00.000Z"
         },
         {
             "index":2,
@@ -87,9 +87,9 @@
             "prima_dose":5315741,
             "seconda_dose":4697001,
             "pregressa_infezione":197279,
-            "dose_aggiuntiva":0,
-            "dose_booster":12994,
-            "ultimo_aggiornamento":"2021-10-15T00:00:00.000Z"
+            "dose_aggiuntiva":5561,
+            "dose_booster":7433,
+            "ultimo_aggiornamento":"2021-10-16T00:00:00.000Z"
         },
         {
             "index":3,
@@ -100,9 +100,9 @@
             "prima_dose":6903666,
             "seconda_dose":6237640,
             "pregressa_infezione":274120,
-            "dose_aggiuntiva":0,
-            "dose_booster":23616,
-            "ultimo_aggiornamento":"2021-10-15T00:00:00.000Z"
+            "dose_aggiuntiva":14315,
+            "dose_booster":9301,
+            "ultimo_aggiornamento":"2021-10-16T00:00:00.000Z"
         },
         {
             "index":4,
@@ -113,9 +113,9 @@
             "prima_dose":7953242,
             "seconda_dose":7195654,
             "pregressa_infezione":338089,
-            "dose_aggiuntiva":0,
-            "dose_booster":42673,
-            "ultimo_aggiornamento":"2021-10-15T00:00:00.000Z"
+            "dose_aggiuntiva":29427,
+            "dose_booster":13246,
+            "ultimo_aggiornamento":"2021-10-16T00:00:00.000Z"
         },
         {
             "index":5,
@@ -126,9 +126,9 @@
             "prima_dose":6505261,
             "seconda_dose":5891999,
             "pregressa_infezione":237999,
-            "dose_aggiuntiva":0,
-            "dose_booster":55329,
-            "ultimo_aggiornamento":"2021-10-15T00:00:00.000Z"
+            "dose_aggiuntiva":41373,
+            "dose_booster":13956,
+            "ultimo_aggiornamento":"2021-10-16T00:00:00.000Z"
         },
         {
             "index":6,
@@ -139,9 +139,9 @@
             "prima_dose":5379880,
             "seconda_dose":5133086,
             "pregressa_infezione":165823,
-            "dose_aggiuntiva":0,
-            "dose_booster":51327,
-            "ultimo_aggiornamento":"2021-10-15T00:00:00.000Z"
+            "dose_aggiuntiva":44700,
+            "dose_booster":6627,
+            "ultimo_aggiornamento":"2021-10-16T00:00:00.000Z"
         },
         {
             "index":7,
@@ -152,9 +152,9 @@
             "prima_dose":3443064,
             "seconda_dose":3374347,
             "pregressa_infezione":80628,
-            "dose_aggiuntiva":0,
-            "dose_booster":242243,
-            "ultimo_aggiornamento":"2021-10-15T00:00:00.000Z"
+            "dose_aggiuntiva":21282,
+            "dose_booster":220961,
+            "ultimo_aggiornamento":"2021-10-16T00:00:00.000Z"
         },
         {
             "index":8,
@@ -165,9 +165,9 @@
             "prima_dose":794585,
             "seconda_dose":764501,
             "pregressa_infezione":20134,
-            "dose_aggiuntiva":0,
-            "dose_booster":51482,
-            "ultimo_aggiornamento":"2021-10-15T00:00:00.000Z"
+            "dose_aggiuntiva":3036,
+            "dose_booster":48446,
+            "ultimo_aggiornamento":"2021-10-16T00:00:00.000Z"
         }
     ]
 }
