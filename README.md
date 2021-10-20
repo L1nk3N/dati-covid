@@ -33,7 +33,7 @@ Nella cartella dati si possono trovare 10 tabelle in formato json e csv:
 *   **last-update-dataset**: data e ora di ultimo aggiornamento del dataset.
 *   **platea**: dati riferiti alla popolazione vaccinabile suddivisi per Regione/Provincia Autonoma e fascia d'età.
 *   **platea-dose-aggiuntiva**: dati riferiti alla popolazione oggetto di dose aggiuntiva suddivisi per Regione/Provincia Autonoma e categoria prevalente.
-*   **platea-dose-booster**: dati riferiti alla popolazione oggetto di somministrazione di dose booster che ha ultimato il ciclo vaccinale dal almeno 6 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
+*   **platea-dose-booster**: dati riferiti alla popolazione oggetto di somministrazione di dose richiamo (booster) che ha ultimato il ciclo vaccinale dal almeno 6 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
 
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole:
@@ -82,7 +82,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
 | dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva. |
-| dose_booster | integer | Numero somministrazioni dose booster. |
+| dose_booster | integer | Numero somministrazioni dose richiamo (booster). |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
@@ -102,7 +102,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
 | dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva. |
-| dose_booster | integer | Numero somministrazioni dose booster. |
+| dose_booster | integer | Numero somministrazioni dose richiamo (booster). |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
@@ -132,7 +132,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
 | dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva. |
-| dose_booster | integer | Numero somministrazioni dose booster. |
+| dose_booster | integer | Numero somministrazioni dose richiamo (booster). |
 
 **last-update-dataset**
 
@@ -167,7 +167,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | area | string | Sigla della Regione/Provincia Autonoma. |
 | nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 | categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose booster. |
-| totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di dose booster che ha completato il ciclo vaccinale da almeno 6 mesi diviso per Regione/Provincia Autonoma, categoria prevalente. |
+| totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di dose richiamo (booster) che ha completato il ciclo vaccinale da almeno 6 mesi diviso per Regione/Provincia Autonoma, categoria prevalente. |
 
 
 # Maintainer
