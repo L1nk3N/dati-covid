@@ -4,14 +4,14 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
-## xx/10/2021
+## 21/10/2021
 Sarà aggiunto il valore **dose_booster** che identifica il numero di dosi booster somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | dose_booster | integer | Numero somministrazioni dose booster |
 
-Aggiunto il file `platea-dose-booster` che definisce la popolazione oggetto di somministrazione di dose booster che ha ultimato il ciclo vaccinale dal almeno 6 mesi suddivisa per Regione/Provincia Autonoma e categoria prevalente.
+Sarà aggiunto il file `platea-dose-booster` che definisce la popolazione oggetto di somministrazione di dose richiamo (booster) che ha ultimato il ciclo vaccinale da almeno 6 mesi suddivisa per Regione/Provincia Autonoma e categoria prevalente.
 
 **platea-dose-booster**
 | Campo | Tipo di dati | Descrizione |
