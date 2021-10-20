@@ -166,7 +166,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | index | integer | Codice identificativo del record. |
 | area | string | Sigla della Regione/Provincia Autonoma. |
 | nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
-| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose booster. |
+| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose richiamo (booster). |
 | totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di dose richiamo (booster) che ha completato il ciclo vaccinale da almeno 6 mesi diviso per Regione/Provincia Autonoma, categoria prevalente. |
 
 
