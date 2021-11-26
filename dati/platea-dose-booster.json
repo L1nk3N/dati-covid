@@ -32,1030 +32,736 @@
             "index":0,
             "area":"ABR",
             "nome_area":"Abruzzo",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":28776
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":4037
         },
         {
             "index":1,
             "area":"ABR",
             "nome_area":"Abruzzo",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":44575
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":3735
         },
         {
             "index":2,
             "area":"ABR",
             "nome_area":"Abruzzo",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":51637
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":31787
         },
         {
             "index":3,
             "area":"ABR",
             "nome_area":"Abruzzo",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":53235
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":4927
         },
         {
             "index":4,
             "area":"ABR",
             "nome_area":"Abruzzo",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":35003
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":65647
         },
         {
             "index":5,
-            "area":"ABR",
-            "nome_area":"Abruzzo",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":5719
+            "area":"BAS",
+            "nome_area":"Basilicata",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":1456
         },
         {
             "index":6,
-            "area":"ABR",
-            "nome_area":"Abruzzo",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":86054
+            "area":"BAS",
+            "nome_area":"Basilicata",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":490
         },
         {
             "index":7,
             "area":"BAS",
             "nome_area":"Basilicata",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":16203
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":11967
         },
         {
             "index":8,
             "area":"BAS",
             "nome_area":"Basilicata",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":21301
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":2330
         },
         {
             "index":9,
             "area":"BAS",
             "nome_area":"Basilicata",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":19716
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":34781
         },
         {
             "index":10,
-            "area":"BAS",
-            "nome_area":"Basilicata",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":19452
+            "area":"CAL",
+            "nome_area":"Calabria",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":6790
         },
         {
             "index":11,
-            "area":"BAS",
-            "nome_area":"Basilicata",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":13040
+            "area":"CAL",
+            "nome_area":"Calabria",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":5433
         },
         {
             "index":12,
-            "area":"BAS",
-            "nome_area":"Basilicata",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":2493
+            "area":"CAL",
+            "nome_area":"Calabria",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":43352
         },
         {
             "index":13,
-            "area":"BAS",
-            "nome_area":"Basilicata",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":38551
+            "area":"CAL",
+            "nome_area":"Calabria",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":12442
         },
         {
             "index":14,
             "area":"CAL",
             "nome_area":"Calabria",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":38813
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":58131
         },
         {
             "index":15,
-            "area":"CAL",
-            "nome_area":"Calabria",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":58690
+            "area":"CAM",
+            "nome_area":"Campania",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":20327
         },
         {
             "index":16,
-            "area":"CAL",
-            "nome_area":"Calabria",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":74943
+            "area":"CAM",
+            "nome_area":"Campania",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":36974
         },
         {
             "index":17,
-            "area":"CAL",
-            "nome_area":"Calabria",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":74458
+            "area":"CAM",
+            "nome_area":"Campania",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":95145
         },
         {
             "index":18,
-            "area":"CAL",
-            "nome_area":"Calabria",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":47747
+            "area":"CAM",
+            "nome_area":"Campania",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":7809
         },
         {
             "index":19,
-            "area":"CAL",
-            "nome_area":"Calabria",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":14478
+            "area":"CAM",
+            "nome_area":"Campania",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":182638
         },
         {
             "index":20,
-            "area":"CAL",
-            "nome_area":"Calabria",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":97388
+            "area":"EMR",
+            "nome_area":"Emilia-Romagna",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":11979
         },
         {
             "index":21,
-            "area":"CAM",
-            "nome_area":"Campania",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":129804
+            "area":"EMR",
+            "nome_area":"Emilia-Romagna",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":22761
         },
         {
             "index":22,
-            "area":"CAM",
-            "nome_area":"Campania",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":269022
+            "area":"EMR",
+            "nome_area":"Emilia-Romagna",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":132855
         },
         {
             "index":23,
-            "area":"CAM",
-            "nome_area":"Campania",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":214009
+            "area":"EMR",
+            "nome_area":"Emilia-Romagna",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":25676
         },
         {
             "index":24,
-            "area":"CAM",
-            "nome_area":"Campania",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":171916
+            "area":"EMR",
+            "nome_area":"Emilia-Romagna",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":259484
         },
         {
             "index":25,
-            "area":"CAM",
-            "nome_area":"Campania",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":99311
+            "area":"FVG",
+            "nome_area":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":2570
         },
         {
             "index":26,
-            "area":"CAM",
-            "nome_area":"Campania",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":9000
+            "area":"FVG",
+            "nome_area":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":2252
         },
         {
             "index":27,
-            "area":"CAM",
-            "nome_area":"Campania",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":236422
+            "area":"FVG",
+            "nome_area":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":35671
         },
         {
             "index":28,
-            "area":"EMR",
-            "nome_area":"Emilia-Romagna",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":91179
+            "area":"FVG",
+            "nome_area":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":9148
         },
         {
             "index":29,
-            "area":"EMR",
-            "nome_area":"Emilia-Romagna",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":131335
+            "area":"FVG",
+            "nome_area":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":58744
         },
         {
             "index":30,
-            "area":"EMR",
-            "nome_area":"Emilia-Romagna",
+            "area":"LAZ",
+            "nome_area":"Lazio",
             "categoria_prevalente":"60-69",
-            "totale_popolazione":195938
+            "totale_popolazione":27845
         },
         {
             "index":31,
-            "area":"EMR",
-            "nome_area":"Emilia-Romagna",
+            "area":"LAZ",
+            "nome_area":"Lazio",
             "categoria_prevalente":"70-79",
-            "totale_popolazione":151714
+            "totale_popolazione":88512
         },
         {
             "index":32,
-            "area":"EMR",
-            "nome_area":"Emilia-Romagna",
+            "area":"LAZ",
+            "nome_area":"Lazio",
             "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":147422
+            "totale_popolazione":138514
         },
         {
             "index":33,
-            "area":"EMR",
-            "nome_area":"Emilia-Romagna",
+            "area":"LAZ",
+            "nome_area":"Lazio",
             "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":26947
+            "totale_popolazione":21411
         },
         {
             "index":34,
-            "area":"EMR",
-            "nome_area":"Emilia-Romagna",
+            "area":"LAZ",
+            "nome_area":"Lazio",
             "categoria_prevalente":"Over 80",
-            "totale_popolazione":341319
+            "totale_popolazione":276753
         },
         {
             "index":35,
-            "area":"FVG",
-            "nome_area":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":27543
+            "area":"LIG",
+            "nome_area":"Liguria",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":9144
         },
         {
             "index":36,
-            "area":"FVG",
-            "nome_area":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":42229
+            "area":"LIG",
+            "nome_area":"Liguria",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":19986
         },
         {
             "index":37,
-            "area":"FVG",
-            "nome_area":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":38096
+            "area":"LIG",
+            "nome_area":"Liguria",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":43551
         },
         {
             "index":38,
-            "area":"FVG",
-            "nome_area":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":32990
+            "area":"LIG",
+            "nome_area":"Liguria",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":11237
         },
         {
             "index":39,
-            "area":"FVG",
-            "nome_area":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":39853
+            "area":"LIG",
+            "nome_area":"Liguria",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":86033
         },
         {
             "index":40,
-            "area":"FVG",
-            "nome_area":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":9667
+            "area":"LOM",
+            "nome_area":"Lombardia",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":33384
         },
         {
             "index":41,
-            "area":"FVG",
-            "nome_area":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":90927
+            "area":"LOM",
+            "nome_area":"Lombardia",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":34371
         },
         {
             "index":42,
-            "area":"LAZ",
-            "nome_area":"Lazio",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":107274
+            "area":"LOM",
+            "nome_area":"Lombardia",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":252847
         },
         {
             "index":43,
-            "area":"LAZ",
-            "nome_area":"Lazio",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":183463
+            "area":"LOM",
+            "nome_area":"Lombardia",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":66428
         },
         {
             "index":44,
-            "area":"LAZ",
-            "nome_area":"Lazio",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":149872
+            "area":"LOM",
+            "nome_area":"Lombardia",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":516540
         },
         {
             "index":45,
-            "area":"LAZ",
-            "nome_area":"Lazio",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":221257
+            "area":"MAR",
+            "nome_area":"Marche",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":5700
         },
         {
             "index":46,
-            "area":"LAZ",
-            "nome_area":"Lazio",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":158959
+            "area":"MAR",
+            "nome_area":"Marche",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":8767
         },
         {
             "index":47,
-            "area":"LAZ",
-            "nome_area":"Lazio",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":22091
+            "area":"MAR",
+            "nome_area":"Marche",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":37665
         },
         {
             "index":48,
-            "area":"LAZ",
-            "nome_area":"Lazio",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":359512
+            "area":"MAR",
+            "nome_area":"Marche",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":6285
         },
         {
             "index":49,
-            "area":"LIG",
-            "nome_area":"Liguria",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":24151
+            "area":"MAR",
+            "nome_area":"Marche",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":67096
         },
         {
             "index":50,
-            "area":"LIG",
-            "nome_area":"Liguria",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":39334
+            "area":"MOL",
+            "nome_area":"Molise",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":669
         },
         {
             "index":51,
-            "area":"LIG",
-            "nome_area":"Liguria",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":43297
+            "area":"MOL",
+            "nome_area":"Molise",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":410
         },
         {
             "index":52,
-            "area":"LIG",
-            "nome_area":"Liguria",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":83789
+            "area":"MOL",
+            "nome_area":"Molise",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":7052
         },
         {
             "index":53,
-            "area":"LIG",
-            "nome_area":"Liguria",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":51190
+            "area":"MOL",
+            "nome_area":"Molise",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":2624
         },
         {
             "index":54,
-            "area":"LIG",
-            "nome_area":"Liguria",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":12481
+            "area":"MOL",
+            "nome_area":"Molise",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":17984
         },
         {
             "index":55,
-            "area":"LIG",
-            "nome_area":"Liguria",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":126271
+            "area":"PAB",
+            "nome_area":"P.A. Bolzano",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":2370
         },
         {
             "index":56,
-            "area":"LOM",
-            "nome_area":"Lombardia",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":191808
+            "area":"PAB",
+            "nome_area":"P.A. Bolzano",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":4451
         },
         {
             "index":57,
-            "area":"LOM",
-            "nome_area":"Lombardia",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":360823
+            "area":"PAB",
+            "nome_area":"P.A. Bolzano",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":13199
         },
         {
             "index":58,
-            "area":"LOM",
-            "nome_area":"Lombardia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":434950
+            "area":"PAB",
+            "nome_area":"P.A. Bolzano",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":3986
         },
         {
             "index":59,
-            "area":"LOM",
-            "nome_area":"Lombardia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":391038
+            "area":"PAB",
+            "nome_area":"P.A. Bolzano",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":22201
         },
         {
             "index":60,
-            "area":"LOM",
-            "nome_area":"Lombardia",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":297741
+            "area":"PAT",
+            "nome_area":"P.A. Trento",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":1578
         },
         {
             "index":61,
-            "area":"LOM",
-            "nome_area":"Lombardia",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":72564
+            "area":"PAT",
+            "nome_area":"P.A. Trento",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":3533
         },
         {
             "index":62,
-            "area":"LOM",
-            "nome_area":"Lombardia",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":681118
+            "area":"PAT",
+            "nome_area":"P.A. Trento",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":14994
         },
         {
             "index":63,
-            "area":"MAR",
-            "nome_area":"Marche",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":30847
+            "area":"PAT",
+            "nome_area":"P.A. Trento",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":4220
         },
         {
             "index":64,
-            "area":"MAR",
-            "nome_area":"Marche",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":43660
+            "area":"PAT",
+            "nome_area":"P.A. Trento",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":22339
         },
         {
             "index":65,
-            "area":"MAR",
-            "nome_area":"Marche",
+            "area":"PIE",
+            "nome_area":"Piemonte",
             "categoria_prevalente":"60-69",
-            "totale_popolazione":64871
+            "totale_popolazione":10932
         },
         {
             "index":66,
-            "area":"MAR",
-            "nome_area":"Marche",
+            "area":"PIE",
+            "nome_area":"Piemonte",
             "categoria_prevalente":"70-79",
-            "totale_popolazione":69548
+            "totale_popolazione":8297
         },
         {
             "index":67,
-            "area":"MAR",
-            "nome_area":"Marche",
+            "area":"PIE",
+            "nome_area":"Piemonte",
             "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":41657
+            "totale_popolazione":133278
         },
         {
             "index":68,
-            "area":"MAR",
-            "nome_area":"Marche",
+            "area":"PIE",
+            "nome_area":"Piemonte",
             "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":7398
+            "totale_popolazione":31944
         },
         {
             "index":69,
-            "area":"MAR",
-            "nome_area":"Marche",
+            "area":"PIE",
+            "nome_area":"Piemonte",
             "categoria_prevalente":"Over 80",
-            "totale_popolazione":97516
+            "totale_popolazione":243515
         },
         {
             "index":70,
-            "area":"MOL",
-            "nome_area":"Molise",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":5699
+            "area":"PUG",
+            "nome_area":"Puglia",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":9654
         },
         {
             "index":71,
-            "area":"MOL",
-            "nome_area":"Molise",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":10401
+            "area":"PUG",
+            "nome_area":"Puglia",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":10235
         },
         {
             "index":72,
-            "area":"MOL",
-            "nome_area":"Molise",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":12159
+            "area":"PUG",
+            "nome_area":"Puglia",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":113230
         },
         {
             "index":73,
-            "area":"MOL",
-            "nome_area":"Molise",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":8979
+            "area":"PUG",
+            "nome_area":"Puglia",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":13871
         },
         {
             "index":74,
-            "area":"MOL",
-            "nome_area":"Molise",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":8108
+            "area":"PUG",
+            "nome_area":"Puglia",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":158816
         },
         {
             "index":75,
-            "area":"MOL",
-            "nome_area":"Molise",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":2645
+            "area":"SAR",
+            "nome_area":"Sardegna",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":5438
         },
         {
             "index":76,
-            "area":"MOL",
-            "nome_area":"Molise",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":22149
+            "area":"SAR",
+            "nome_area":"Sardegna",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":7734
         },
         {
             "index":77,
-            "area":"PAB",
-            "nome_area":"P.A. Bolzano",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":13819
+            "area":"SAR",
+            "nome_area":"Sardegna",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":41571
         },
         {
             "index":78,
-            "area":"PAB",
-            "nome_area":"P.A. Bolzano",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":18075
+            "area":"SAR",
+            "nome_area":"Sardegna",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":8844
         },
         {
             "index":79,
-            "area":"PAB",
-            "nome_area":"P.A. Bolzano",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":20664
+            "area":"SAR",
+            "nome_area":"Sardegna",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":66235
         },
         {
             "index":80,
-            "area":"PAB",
-            "nome_area":"P.A. Bolzano",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":14502
+            "area":"SIC",
+            "nome_area":"Sicilia",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":10723
         },
         {
             "index":81,
-            "area":"PAB",
-            "nome_area":"P.A. Bolzano",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":14376
+            "area":"SIC",
+            "nome_area":"Sicilia",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":8880
         },
         {
             "index":82,
-            "area":"PAB",
-            "nome_area":"P.A. Bolzano",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":3799
+            "area":"SIC",
+            "nome_area":"Sicilia",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":115158
         },
         {
             "index":83,
-            "area":"PAB",
-            "nome_area":"P.A. Bolzano",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":26291
+            "area":"SIC",
+            "nome_area":"Sicilia",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":23052
         },
         {
             "index":84,
-            "area":"PAT",
-            "nome_area":"P.A. Trento",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":8103
+            "area":"SIC",
+            "nome_area":"Sicilia",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":128108
         },
         {
             "index":85,
-            "area":"PAT",
-            "nome_area":"P.A. Trento",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":13330
+            "area":"TOS",
+            "nome_area":"Toscana",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":5122
         },
         {
             "index":86,
-            "area":"PAT",
-            "nome_area":"P.A. Trento",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":10468
+            "area":"TOS",
+            "nome_area":"Toscana",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":14565
         },
         {
             "index":87,
-            "area":"PAT",
-            "nome_area":"P.A. Trento",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":19071
+            "area":"TOS",
+            "nome_area":"Toscana",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":120749
         },
         {
             "index":88,
-            "area":"PAT",
-            "nome_area":"P.A. Trento",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":16510
+            "area":"TOS",
+            "nome_area":"Toscana",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":19189
         },
         {
             "index":89,
-            "area":"PAT",
-            "nome_area":"P.A. Trento",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":4264
+            "area":"TOS",
+            "nome_area":"Toscana",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":210108
         },
         {
             "index":90,
-            "area":"PAT",
-            "nome_area":"P.A. Trento",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":33608
+            "area":"UMB",
+            "nome_area":"Umbria",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":788
         },
         {
             "index":91,
-            "area":"PIE",
-            "nome_area":"Piemonte",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":82456
+            "area":"UMB",
+            "nome_area":"Umbria",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":421
         },
         {
             "index":92,
-            "area":"PIE",
-            "nome_area":"Piemonte",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":124294
+            "area":"UMB",
+            "nome_area":"Umbria",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":22927
         },
         {
             "index":93,
-            "area":"PIE",
-            "nome_area":"Piemonte",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":169164
+            "area":"UMB",
+            "nome_area":"Umbria",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":5095
         },
         {
             "index":94,
-            "area":"PIE",
-            "nome_area":"Piemonte",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":155627
+            "area":"UMB",
+            "nome_area":"Umbria",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":51424
         },
         {
             "index":95,
-            "area":"PIE",
-            "nome_area":"Piemonte",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":140333
+            "area":"VDA",
+            "nome_area":"Valle d'Aosta",
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":954
         },
         {
             "index":96,
-            "area":"PIE",
-            "nome_area":"Piemonte",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":33045
+            "area":"VDA",
+            "nome_area":"Valle d'Aosta",
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":1695
         },
         {
             "index":97,
-            "area":"PIE",
-            "nome_area":"Piemonte",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":329542
+            "area":"VDA",
+            "nome_area":"Valle d'Aosta",
+            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
+            "totale_popolazione":3223
         },
         {
             "index":98,
-            "area":"PUG",
-            "nome_area":"Puglia",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":89762
+            "area":"VDA",
+            "nome_area":"Valle d'Aosta",
+            "categoria_prevalente":"Ospiti Strutture Residenziali",
+            "totale_popolazione":736
         },
         {
             "index":99,
-            "area":"PUG",
-            "nome_area":"Puglia",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":130600
+            "area":"VDA",
+            "nome_area":"Valle d'Aosta",
+            "categoria_prevalente":"Over 80",
+            "totale_popolazione":5176
         },
         {
             "index":100,
-            "area":"PUG",
-            "nome_area":"Puglia",
+            "area":"VEN",
+            "nome_area":"Veneto",
             "categoria_prevalente":"60-69",
-            "totale_popolazione":140552
+            "totale_popolazione":17419
         },
         {
             "index":101,
-            "area":"PUG",
-            "nome_area":"Puglia",
+            "area":"VEN",
+            "nome_area":"Veneto",
             "categoria_prevalente":"70-79",
-            "totale_popolazione":146640
+            "totale_popolazione":41264
         },
         {
             "index":102,
-            "area":"PUG",
-            "nome_area":"Puglia",
+            "area":"VEN",
+            "nome_area":"Veneto",
             "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":119331
+            "totale_popolazione":132269
         },
         {
             "index":103,
-            "area":"PUG",
-            "nome_area":"Puglia",
+            "area":"VEN",
+            "nome_area":"Veneto",
             "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":15426
+            "totale_popolazione":40790
         },
         {
             "index":104,
-            "area":"PUG",
-            "nome_area":"Puglia",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":234818
-        },
-        {
-            "index":105,
-            "area":"SAR",
-            "nome_area":"Sardegna",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":31195
-        },
-        {
-            "index":106,
-            "area":"SAR",
-            "nome_area":"Sardegna",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":42953
-        },
-        {
-            "index":107,
-            "area":"SAR",
-            "nome_area":"Sardegna",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":44858
-        },
-        {
-            "index":108,
-            "area":"SAR",
-            "nome_area":"Sardegna",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":45043
-        },
-        {
-            "index":109,
-            "area":"SAR",
-            "nome_area":"Sardegna",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":45771
-        },
-        {
-            "index":110,
-            "area":"SAR",
-            "nome_area":"Sardegna",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":9231
-        },
-        {
-            "index":111,
-            "area":"SAR",
-            "nome_area":"Sardegna",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":93353
-        },
-        {
-            "index":112,
-            "area":"SIC",
-            "nome_area":"Sicilia",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":109505
-        },
-        {
-            "index":113,
-            "area":"SIC",
-            "nome_area":"Sicilia",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":171709
-        },
-        {
-            "index":114,
-            "area":"SIC",
-            "nome_area":"Sicilia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":183253
-        },
-        {
-            "index":115,
-            "area":"SIC",
-            "nome_area":"Sicilia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":177230
-        },
-        {
-            "index":116,
-            "area":"SIC",
-            "nome_area":"Sicilia",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":125819
-        },
-        {
-            "index":117,
-            "area":"SIC",
-            "nome_area":"Sicilia",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":27950
-        },
-        {
-            "index":118,
-            "area":"SIC",
-            "nome_area":"Sicilia",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":221706
-        },
-        {
-            "index":119,
-            "area":"TOS",
-            "nome_area":"Toscana",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":75955
-        },
-        {
-            "index":120,
-            "area":"TOS",
-            "nome_area":"Toscana",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":96261
-        },
-        {
-            "index":121,
-            "area":"TOS",
-            "nome_area":"Toscana",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":107762
-        },
-        {
-            "index":122,
-            "area":"TOS",
-            "nome_area":"Toscana",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":131621
-        },
-        {
-            "index":123,
-            "area":"TOS",
-            "nome_area":"Toscana",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":126242
-        },
-        {
-            "index":124,
-            "area":"TOS",
-            "nome_area":"Toscana",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":20119
-        },
-        {
-            "index":125,
-            "area":"TOS",
-            "nome_area":"Toscana",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":300937
-        },
-        {
-            "index":126,
-            "area":"UMB",
-            "nome_area":"Umbria",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":18398
-        },
-        {
-            "index":127,
-            "area":"UMB",
-            "nome_area":"Umbria",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":25576
-        },
-        {
-            "index":128,
-            "area":"UMB",
-            "nome_area":"Umbria",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":29269
-        },
-        {
-            "index":129,
-            "area":"UMB",
-            "nome_area":"Umbria",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":17747
-        },
-        {
-            "index":130,
-            "area":"UMB",
-            "nome_area":"Umbria",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":25446
-        },
-        {
-            "index":131,
-            "area":"UMB",
-            "nome_area":"Umbria",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":5503
-        },
-        {
-            "index":132,
-            "area":"UMB",
-            "nome_area":"Umbria",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":74604
-        },
-        {
-            "index":133,
-            "area":"VDA",
-            "nome_area":"Valle d'Aosta",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":2004
-        },
-        {
-            "index":134,
-            "area":"VDA",
-            "nome_area":"Valle d'Aosta",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":4121
-        },
-        {
-            "index":135,
-            "area":"VDA",
-            "nome_area":"Valle d'Aosta",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":4749
-        },
-        {
-            "index":136,
-            "area":"VDA",
-            "nome_area":"Valle d'Aosta",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":6724
-        },
-        {
-            "index":137,
-            "area":"VDA",
-            "nome_area":"Valle d'Aosta",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":3566
-        },
-        {
-            "index":138,
-            "area":"VDA",
-            "nome_area":"Valle d'Aosta",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":780
-        },
-        {
-            "index":139,
-            "area":"VDA",
-            "nome_area":"Valle d'Aosta",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":8272
-        },
-        {
-            "index":140,
-            "area":"VEN",
-            "nome_area":"Veneto",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":77537
-        },
-        {
-            "index":141,
-            "area":"VEN",
-            "nome_area":"Veneto",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":122762
-        },
-        {
-            "index":142,
-            "area":"VEN",
-            "nome_area":"Veneto",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":221771
-        },
-        {
-            "index":143,
-            "area":"VEN",
-            "nome_area":"Veneto",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":193578
-        },
-        {
-            "index":144,
-            "area":"VEN",
-            "nome_area":"Veneto",
-            "categoria_prevalente":"Operatori Sanitari e Sociosanitari",
-            "totale_popolazione":139091
-        },
-        {
-            "index":145,
-            "area":"VEN",
-            "nome_area":"Veneto",
-            "categoria_prevalente":"Ospiti Strutture Residenziali",
-            "totale_popolazione":41145
-        },
-        {
-            "index":146,
             "area":"VEN",
             "nome_area":"Veneto",
             "categoria_prevalente":"Over 80",
-            "totale_popolazione":318166
+            "totale_popolazione":222684
         }
     ]
 }
