@@ -47,7 +47,7 @@
         {
             "index":0,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":135,
             "data_consegna":"2020-12-27T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -58,7 +58,7 @@
         {
             "index":1,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":7800,
             "data_consegna":"2020-12-30T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -69,7 +69,7 @@
         {
             "index":2,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":3900,
             "data_consegna":"2021-01-05T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -80,7 +80,7 @@
         {
             "index":3,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":3900,
             "data_consegna":"2021-01-07T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -91,7 +91,7 @@
         {
             "index":4,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":3900,
             "data_consegna":"2021-01-11T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -102,7 +102,7 @@
         {
             "index":5,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":4875,
             "data_consegna":"2021-01-12T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -124,7 +124,7 @@
         {
             "index":7,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":3510,
             "data_consegna":"2021-01-18T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -135,7 +135,7 @@
         {
             "index":8,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":3510,
             "data_consegna":"2021-01-20T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -146,7 +146,7 @@
         {
             "index":9,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":2340,
             "data_consegna":"2021-01-21T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -157,7 +157,7 @@
         {
             "index":10,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":1170,
             "data_consegna":"2021-01-26T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -168,7 +168,7 @@
         {
             "index":11,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":2340,
             "data_consegna":"2021-01-27T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -190,7 +190,7 @@
         {
             "index":13,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":7020,
             "data_consegna":"2021-02-02T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -201,7 +201,7 @@
         {
             "index":14,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":8190,
             "data_consegna":"2021-02-09T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -223,7 +223,7 @@
         {
             "index":16,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":2340,
             "data_consegna":"2021-02-10T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -256,7 +256,7 @@
         {
             "index":19,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":14040,
             "data_consegna":"2021-02-18T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -278,7 +278,7 @@
         {
             "index":21,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":11700,
             "data_consegna":"2021-02-23T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -289,7 +289,7 @@
         {
             "index":22,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":4680,
             "data_consegna":"2021-02-24T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -333,7 +333,7 @@
         {
             "index":26,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":16380,
             "data_consegna":"2021-03-02T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -344,7 +344,7 @@
         {
             "index":27,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":1170,
             "data_consegna":"2021-03-04T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -366,7 +366,7 @@
         {
             "index":29,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":17550,
             "data_consegna":"2021-03-09T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -410,7 +410,7 @@
         {
             "index":33,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":17550,
             "data_consegna":"2021-03-15T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -443,7 +443,7 @@
         {
             "index":36,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":31590,
             "data_consegna":"2021-03-22T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -498,7 +498,7 @@
         {
             "index":41,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":25740,
             "data_consegna":"2021-03-29T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -531,7 +531,7 @@
         {
             "index":44,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":55,
             "data_consegna":"2021-03-31T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -586,7 +586,7 @@
         {
             "index":49,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":38610,
             "data_consegna":"2021-04-06T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -619,7 +619,7 @@
         {
             "index":52,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":1170,
             "data_consegna":"2021-04-13T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -641,7 +641,7 @@
         {
             "index":54,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":33930,
             "data_consegna":"2021-04-14T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -707,7 +707,7 @@
         {
             "index":60,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":71,
             "data_consegna":"2021-04-22T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -740,7 +740,7 @@
         {
             "index":63,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":46800,
             "data_consegna":"2021-04-28T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -784,7 +784,7 @@
         {
             "index":67,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":45630,
             "data_consegna":"2021-05-05T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -806,7 +806,7 @@
         {
             "index":69,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":44460,
             "data_consegna":"2021-05-12T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -839,7 +839,7 @@
         {
             "index":72,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":44460,
             "data_consegna":"2021-05-19T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -927,7 +927,7 @@
         {
             "index":80,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":72,
             "data_consegna":"2021-05-25T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -938,7 +938,7 @@
         {
             "index":81,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":44460,
             "data_consegna":"2021-05-26T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -960,7 +960,7 @@
         {
             "index":83,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":29,
             "data_consegna":"2021-05-27T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -971,7 +971,7 @@
         {
             "index":84,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":16,
             "data_consegna":"2021-05-28T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1015,7 +1015,7 @@
         {
             "index":88,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":43,
             "data_consegna":"2021-05-31T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1037,7 +1037,7 @@
         {
             "index":90,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":70272,
             "data_consegna":"2021-06-01T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1070,7 +1070,7 @@
         {
             "index":93,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":30,
             "data_consegna":"2021-06-04T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1114,7 +1114,7 @@
         {
             "index":97,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":59676,
             "data_consegna":"2021-06-09T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1158,7 +1158,7 @@
         {
             "index":101,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":66,
             "data_consegna":"2021-06-15T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1169,7 +1169,7 @@
         {
             "index":102,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":57400,
             "data_consegna":"2021-06-16T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1191,7 +1191,7 @@
         {
             "index":104,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":4752,
             "data_consegna":"2021-06-17T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1202,7 +1202,7 @@
         {
             "index":105,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":36,
             "data_consegna":"2021-06-18T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1235,7 +1235,7 @@
         {
             "index":108,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":72,
             "data_consegna":"2021-06-21T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1246,7 +1246,7 @@
         {
             "index":109,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":66,
             "data_consegna":"2021-06-22T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1257,7 +1257,7 @@
         {
             "index":110,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":74915,
             "data_consegna":"2021-06-23T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1279,7 +1279,7 @@
         {
             "index":112,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":36,
             "data_consegna":"2021-06-25T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1312,7 +1312,7 @@
         {
             "index":115,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":29,
             "data_consegna":"2021-06-28T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1323,7 +1323,7 @@
         {
             "index":116,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":77232,
             "data_consegna":"2021-06-30T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1367,7 +1367,7 @@
         {
             "index":120,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":28,
             "data_consegna":"2021-07-05T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1378,7 +1378,7 @@
         {
             "index":121,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":47970,
             "data_consegna":"2021-07-07T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -1400,7 +1400,7 @@
         {
             "index":123,
             "area":"ABR",
-            "fornitore":"Pfizer\/BioNTech",
+            "fornitore":"Pfizer\/Pediatrico",
             "numero_dosi":42120,
             "data_consegna":"2021-07-14T00:00:00.000Z",
             "codice_NUTS1":"ITF",
