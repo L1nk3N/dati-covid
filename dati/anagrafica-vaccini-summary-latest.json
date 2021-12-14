@@ -51,13 +51,13 @@
         {
             "index":0,
             "fascia_anagrafica":"12-19",
-            "totale":6797073,
-            "sesso_maschile":3490397,
-            "sesso_femminile":3306676,
-            "prima_dose":3506575,
-            "seconda_dose":3136037,
-            "pregressa_infezione":112470,
-            "dose_addizionale_booster":41991,
+            "totale":6796469,
+            "sesso_maschile":3489961,
+            "sesso_femminile":3306508,
+            "prima_dose":3506064,
+            "seconda_dose":3135953,
+            "pregressa_infezione":112465,
+            "dose_addizionale_booster":41987,
             "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
         },
         {
@@ -98,6 +98,18 @@
         },
         {
             "index":4,
+            "fascia_anagrafica":"5-11",
+            "totale":604,
+            "sesso_maschile":436,
+            "sesso_femminile":168,
+            "prima_dose":511,
+            "seconda_dose":84,
+            "pregressa_infezione":5,
+            "dose_addizionale_booster":4,
+            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+        },
+        {
+            "index":5,
             "fascia_anagrafica":"50-59",
             "totale":18229850,
             "sesso_maschile":8903874,
@@ -109,7 +121,7 @@
             "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
         },
         {
-            "index":5,
+            "index":6,
             "fascia_anagrafica":"60-69",
             "totale":15236919,
             "sesso_maschile":7419114,
@@ -121,7 +133,7 @@
             "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
         },
         {
-            "index":6,
+            "index":7,
             "fascia_anagrafica":"70-79",
             "totale":13130975,
             "sesso_maschile":6224755,
@@ -133,7 +145,7 @@
             "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
         },
         {
-            "index":7,
+            "index":8,
             "fascia_anagrafica":"80-89",
             "totale":9335642,
             "sesso_maschile":3897484,
@@ -145,7 +157,7 @@
             "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
         },
         {
-            "index":8,
+            "index":9,
             "fascia_anagrafica":"90+",
             "totale":2065158,
             "sesso_maschile":616110,
