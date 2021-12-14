@@ -32,15 +32,15 @@
             "index":0,
             "area":"ABR",
             "nome_area":"Abruzzo",
-            "fascia_anagrafica":"12-19",
-            "totale_guariti":1215
+            "fascia_anagrafica":"5-11",
+            "totale_guariti":100
         },
         {
             "index":1,
             "area":"ABR",
             "nome_area":"Abruzzo",
-            "fascia_anagrafica":"20-29",
-            "totale_guariti":881
+            "fascia_anagrafica":"5-11",
+            "totale_guariti":100
         },
         {
             "index":2,
