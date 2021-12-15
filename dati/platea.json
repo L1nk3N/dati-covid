@@ -60,7 +60,7 @@
             "index":4,
             "area":"ABR",
             "nome_area":"Abruzzo",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":47236
         },
         {
@@ -123,7 +123,7 @@
             "index":13,
             "area":"BAS",
             "nome_area":"Basilicata",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":19461
         },
         {
@@ -186,7 +186,7 @@
             "index":22,
             "area":"CAL",
             "nome_area":"Calabria",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":71980
         },
         {
@@ -249,7 +249,7 @@
             "index":31,
             "area":"CAM",
             "nome_area":"Campania",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":244866
         },
         {
@@ -312,7 +312,7 @@
             "index":40,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":166790
         },
         {
@@ -375,7 +375,7 @@
             "index":49,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":42611
         },
         {
@@ -438,7 +438,7 @@
             "index":58,
             "area":"LAZ",
             "nome_area":"Lazio",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":218909
         },
         {
@@ -501,7 +501,7 @@
             "index":67,
             "area":"LIG",
             "nome_area":"Liguria",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":51888
         },
         {
@@ -564,7 +564,7 @@
             "index":76,
             "area":"LOM",
             "nome_area":"Lombardia",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":403119
         },
         {
@@ -627,7 +627,7 @@
             "index":85,
             "area":"MAR",
             "nome_area":"Marche",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":57007
         },
         {
@@ -690,7 +690,7 @@
             "index":94,
             "area":"MOL",
             "nome_area":"Molise",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":9851
         },
         {
@@ -753,7 +753,7 @@
             "index":103,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":22748
         },
         {
@@ -816,7 +816,7 @@
             "index":112,
             "area":"PAT",
             "nome_area":"P.A. Trento",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":21942
         },
         {
@@ -879,7 +879,7 @@
             "index":121,
             "area":"PIE",
             "nome_area":"Piemonte",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":156416
         },
         {
@@ -942,7 +942,7 @@
             "index":130,
             "area":"PUG",
             "nome_area":"Puglia",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":154455
         },
         {
@@ -1005,7 +1005,7 @@
             "index":139,
             "area":"SAR",
             "nome_area":"Sardegna",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":54106
         },
         {
@@ -1068,7 +1068,7 @@
             "index":148,
             "area":"SIC",
             "nome_area":"Sicilia",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":197247
         },
         {
@@ -1131,7 +1131,7 @@
             "index":157,
             "area":"TOS",
             "nome_area":"Toscana",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":136557
         },
         {
@@ -1194,7 +1194,7 @@
             "index":166,
             "area":"UMB",
             "nome_area":"Umbria",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":32325
         },
         {
@@ -1257,7 +1257,7 @@
             "index":175,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":4757
         },
         {
@@ -1320,7 +1320,7 @@
             "index":184,
             "area":"VEN",
             "nome_area":"Veneto",
-            "fascia_anagrafica":"5-11",
+            "fascia_anagrafica":"05-11",
             "totale_popolazione":191243
         },
         {
