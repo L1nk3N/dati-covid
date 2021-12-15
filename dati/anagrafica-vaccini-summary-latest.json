@@ -50,6 +50,18 @@
     "data":[
         {
             "index":0,
+            "fascia_anagrafica":"05-11",
+            "totale":604,
+            "sesso_maschile":436,
+            "sesso_femminile":168,
+            "prima_dose":511,
+            "seconda_dose":84,
+            "pregressa_infezione":5,
+            "dose_addizionale_booster":4,
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
+        },
+        {
+            "index":1,
             "fascia_anagrafica":"12-19",
             "totale":6796469,
             "sesso_maschile":3489961,
@@ -58,10 +70,10 @@
             "seconda_dose":3135953,
             "pregressa_infezione":112465,
             "dose_addizionale_booster":41987,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
         },
         {
-            "index":1,
+            "index":2,
             "fascia_anagrafica":"20-29",
             "totale":10736376,
             "sesso_maschile":5580424,
@@ -70,10 +82,10 @@
             "seconda_dose":4835851,
             "pregressa_infezione":203019,
             "dose_addizionale_booster":469800,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
         },
         {
-            "index":2,
+            "index":3,
             "fascia_anagrafica":"30-39",
             "totale":11665941,
             "sesso_maschile":5938786,
@@ -82,10 +94,10 @@
             "seconda_dose":5182706,
             "pregressa_infezione":207191,
             "dose_addizionale_booster":672752,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
         },
         {
-            "index":3,
+            "index":4,
             "fascia_anagrafica":"40-49",
             "totale":15367166,
             "sesso_maschile":7579058,
@@ -94,19 +106,7 @@
             "seconda_dose":6683972,
             "pregressa_infezione":284477,
             "dose_addizionale_booster":1233664,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
-        },
-        {
-            "index":4,
-            "fascia_anagrafica":"5-11",
-            "totale":604,
-            "sesso_maschile":436,
-            "sesso_femminile":168,
-            "prima_dose":511,
-            "seconda_dose":84,
-            "pregressa_infezione":5,
-            "dose_addizionale_booster":4,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
         },
         {
             "index":5,
@@ -118,7 +118,7 @@
             "seconda_dose":7554022,
             "pregressa_infezione":338349,
             "dose_addizionale_booster":2160298,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
         },
         {
             "index":6,
@@ -130,7 +130,7 @@
             "seconda_dose":6050362,
             "pregressa_infezione":231522,
             "dose_addizionale_booster":2323498,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
         },
         {
             "index":7,
@@ -142,7 +142,7 @@
             "seconda_dose":5202480,
             "pregressa_infezione":158174,
             "dose_addizionale_booster":2323145,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
         },
         {
             "index":8,
@@ -154,7 +154,7 @@
             "seconda_dose":3404075,
             "pregressa_infezione":76472,
             "dose_addizionale_booster":2382396,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
         },
         {
             "index":9,
@@ -166,7 +166,7 @@
             "seconda_dose":772698,
             "pregressa_infezione":19819,
             "dose_addizionale_booster":471003,
-            "ultimo_aggiornamento":"2021-12-14T00:00:00.000Z"
+            "ultimo_aggiornamento":"2021-12-15T00:00:00.000Z"
         }
     ]
 }
