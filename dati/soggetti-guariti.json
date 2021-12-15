@@ -36,6 +36,13 @@
             "totale_guariti":1215
         },
         {
+            "index":0,
+            "area":"ABR",
+            "nome_area":"Abruzzo",
+            "fascia_anagrafica":"05-11",
+            "totale_guariti":1000
+        },
+        {
             "index":1,
             "area":"ABR",
             "nome_area":"Abruzzo",
