@@ -33,14 +33,14 @@
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":123667
+            "totale_popolazione":76431
         },
         {
             "index":1,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":47491
+            "totale_popolazione":94727
         },
         {
             "index":2,
@@ -96,14 +96,14 @@
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":48416
+            "totale_popolazione":28955
         },
         {
             "index":10,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":21486
+            "totale_popolazione":40947
         },
         {
             "index":11,
@@ -159,14 +159,14 @@
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":186085
+            "totale_popolazione":114105
         },
         {
             "index":19,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":75429
+            "totale_popolazione":147409
         },
         {
             "index":20,
@@ -222,14 +222,14 @@
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":621657
+            "totale_popolazione":376791
         },
         {
             "index":28,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":261204
+            "totale_popolazione":506070
         },
         {
             "index":29,
@@ -285,14 +285,14 @@
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":435549
+            "totale_popolazione":268759
         },
         {
             "index":37,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":160620
+            "totale_popolazione":327410
         },
         {
             "index":38,
@@ -320,14 +320,14 @@
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"50-59",
-            "totale_popolazione":715559
+            "totale_popolazione":714534
         },
         {
             "index":42,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"60-69",
-            "totale_popolazione":551239
+            "totale_popolazione":551064
         },
         {
             "index":43,
@@ -341,21 +341,21 @@
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":371673
+            "totale_popolazione":372873
         },
         {
             "index":45,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":109161
+            "totale_popolazione":66550
         },
         {
             "index":46,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":42954
+            "totale_popolazione":85565
         },
         {
             "index":47,
@@ -411,14 +411,14 @@
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":594156
+            "totale_popolazione":375247
         },
         {
             "index":55,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":212312
+            "totale_popolazione":431221
         },
         {
             "index":56,
@@ -474,14 +474,14 @@
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":132190
+            "totale_popolazione":80302
         },
         {
             "index":64,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":52179
+            "totale_popolazione":104067
         },
         {
             "index":65,
@@ -537,14 +537,14 @@
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":1040284
+            "totale_popolazione":637165
         },
         {
             "index":73,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":391367
+            "totale_popolazione":794486
         },
         {
             "index":74,
@@ -600,14 +600,14 @@
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":146770
+            "totale_popolazione":89763
         },
         {
             "index":82,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":56052
+            "totale_popolazione":113059
         },
         {
             "index":83,
@@ -663,14 +663,14 @@
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":25360
+            "totale_popolazione":15509
         },
         {
             "index":91,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":10646
+            "totale_popolazione":20497
         },
         {
             "index":92,
@@ -726,14 +726,14 @@
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":58813
+            "totale_popolazione":38715
         },
         {
             "index":100,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":22799
+            "totale_popolazione":45547
         },
         {
             "index":101,
@@ -789,14 +789,14 @@
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":269609
+            "totale_popolazione":36065
         },
         {
             "index":109,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":22315
+            "totale_popolazione":44257
         },
         {
             "index":110,
@@ -817,7 +817,7 @@
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"40-49",
-            "totale_popolazione":74545
+            "totale_popolazione":74395
         },
         {
             "index":113,
@@ -845,21 +845,21 @@
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":39122
+            "totale_popolazione":39272
         },
         {
             "index":117,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":195131
+            "totale_popolazione":247667
         },
         {
             "index":118,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":154065
+            "totale_popolazione":310481
         },
         {
             "index":119,
@@ -915,14 +915,14 @@
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":394899
+            "totale_popolazione":240444
         },
         {
             "index":127,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":166733
+            "totale_popolazione":321188
         },
         {
             "index":128,
@@ -978,14 +978,14 @@
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":137978
+            "totale_popolazione":83872
         },
         {
             "index":136,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":55297
+            "totale_popolazione":109403
         },
         {
             "index":137,
@@ -1041,14 +1041,14 @@
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":507643
+            "totale_popolazione":310396
         },
         {
             "index":145,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":209346
+            "totale_popolazione":406593
         },
         {
             "index":146,
@@ -1104,14 +1104,14 @@
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":351328
+            "totale_popolazione":214771
         },
         {
             "index":154,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":133796
+            "totale_popolazione":270353
         },
         {
             "index":155,
@@ -1167,14 +1167,14 @@
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":82284
+            "totale_popolazione":49959
         },
         {
             "index":163,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":31285
+            "totale_popolazione":63610
         },
         {
             "index":164,
@@ -1230,14 +1230,14 @@
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":12218
+            "totale_popolazione":7461
         },
         {
             "index":172,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":4593
+            "totale_popolazione":9350
         },
         {
             "index":173,
@@ -1293,14 +1293,14 @@
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"05-11",
-            "totale_popolazione":488385
+            "totale_popolazione":297142
         },
         {
             "index":181,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":190031
+            "totale_popolazione":381274
         },
         {
             "index":182,
