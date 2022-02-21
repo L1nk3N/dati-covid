@@ -145,7 +145,7 @@
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"70-79",
-            "totale_popolazione":51805
+            "totale_popolazione":52557
         },
         {
             "index":17,
@@ -271,7 +271,7 @@
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"70-79",
-            "totale_popolazione":477420
+            "totale_popolazione":480420
         },
         {
             "index":35,
@@ -299,7 +299,7 @@
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"20-29",
-            "totale_popolazione":419909
+            "totale_popolazione":429909
         },
         {
             "index":39,
@@ -313,7 +313,7 @@
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"40-49",
-            "totale_popolazione":667770
+            "totale_popolazione":678110
         },
         {
             "index":41,
@@ -327,21 +327,21 @@
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"60-69",
-            "totale_popolazione":551064
+            "totale_popolazione":550471
         },
         {
             "index":43,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"70-79",
-            "totale_popolazione":455912
+            "totale_popolazione":455316
         },
         {
             "index":44,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":372873
+            "totale_popolazione":384862
         },
         {
             "index":45,
@@ -362,7 +362,7 @@
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"20-29",
-            "totale_popolazione":108149
+            "totale_popolazione":114577
         },
         {
             "index":48,
@@ -383,7 +383,7 @@
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"50-59",
-            "totale_popolazione":199155
+            "totale_popolazione":197727
         },
         {
             "index":51,
@@ -404,7 +404,7 @@
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":105679
+            "totale_popolazione":108329
         },
         {
             "index":54,
@@ -467,7 +467,7 @@
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":412287
+            "totale_popolazione":417787
         },
         {
             "index":63,
@@ -551,7 +551,7 @@
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"20-29",
-            "totale_popolazione":997448
+            "totale_popolazione":1002476
         },
         {
             "index":75,
@@ -593,7 +593,7 @@
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":765259
+            "totale_popolazione":775259
         },
         {
             "index":81,
@@ -782,7 +782,7 @@
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":33732
+            "totale_popolazione":33932
         },
         {
             "index":108,
@@ -803,28 +803,28 @@
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"20-29",
-            "totale_popolazione":57300
+            "totale_popolazione":60934
         },
         {
             "index":111,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"30-39",
-            "totale_popolazione":59852
+            "totale_popolazione":59628
         },
         {
             "index":112,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"40-49",
-            "totale_popolazione":74395
+            "totale_popolazione":73921
         },
         {
             "index":113,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"50-59",
-            "totale_popolazione":85734
+            "totale_popolazione":85564
         },
         {
             "index":114,
@@ -845,7 +845,7 @@
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":39272
+            "totale_popolazione":39942
         },
         {
             "index":117,
@@ -964,14 +964,14 @@
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"70-79",
-            "totale_popolazione":395276
+            "totale_popolazione":398702
         },
         {
             "index":134,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":272957
+            "totale_popolazione":276957
         },
         {
             "index":135,
@@ -1048,56 +1048,56 @@
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":406593
+            "totale_popolazione":401213
         },
         {
             "index":146,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"20-29",
-            "totale_popolazione":544052
+            "totale_popolazione":532526
         },
         {
             "index":147,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"30-39",
-            "totale_popolazione":583826
+            "totale_popolazione":580626
         },
         {
             "index":148,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"40-49",
-            "totale_popolazione":694418
+            "totale_popolazione":682702
         },
         {
             "index":149,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"50-59",
-            "totale_popolazione":755875
+            "totale_popolazione":755558
         },
         {
             "index":150,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"60-69",
-            "totale_popolazione":631055
+            "totale_popolazione":610639
         },
         {
             "index":151,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"70-79",
-            "totale_popolazione":476607
+            "totale_popolazione":467157
         },
         {
             "index":152,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":342909
+            "totale_popolazione":324595
         },
         {
             "index":153,
@@ -1118,7 +1118,7 @@
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"20-29",
-            "totale_popolazione":339137
+            "totale_popolazione":341137
         },
         {
             "index":156,
@@ -1139,7 +1139,7 @@
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"50-59",
-            "totale_popolazione":603627
+            "totale_popolazione":601903
         },
         {
             "index":159,
@@ -1160,7 +1160,7 @@
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":331025
+            "totale_popolazione":334937
         },
         {
             "index":162,
@@ -1223,7 +1223,7 @@
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":85981
+            "totale_popolazione":84981
         },
         {
             "index":171,
@@ -1300,7 +1300,7 @@
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"12-19",
-            "totale_popolazione":381274
+            "totale_popolazione":379519
         },
         {
             "index":182,
@@ -1349,7 +1349,7 @@
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"80+",
-            "totale_popolazione":370529
+            "totale_popolazione":375284
         }
     ]
 }
