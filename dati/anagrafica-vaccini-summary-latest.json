@@ -51,14 +51,14 @@
         {
             "index":0,
             "fascia_anagrafica":"05-11",
-            "totale":2461626,
-            "sesso_maschile":1262055,
-            "sesso_femminile":1199571,
+            "totale":2423640,
+            "sesso_maschile":1243062,
+            "sesso_femminile":1180578,
             "prima_dose":1297572,
             "seconda_dose":1068349,
             "pregressa_infezione":57719,
-            "dose_addizionale_booster":37986,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "dose_addizionale_booster":0,
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         },
         {
             "index":1,
@@ -70,7 +70,7 @@
             "seconda_dose":3599208,
             "pregressa_infezione":160559,
             "dose_addizionale_booster":1789641,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         },
         {
             "index":2,
@@ -82,55 +82,55 @@
             "seconda_dose":5092863,
             "pregressa_infezione":240861,
             "dose_addizionale_booster":3621287,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         },
         {
             "index":3,
             "fascia_anagrafica":"30-39",
-            "totale":15455232,
-            "sesso_maschile":7897453,
+            "totale":15455231,
+            "sesso_maschile":7897452,
             "sesso_femminile":7557779,
             "prima_dose":5785973,
-            "seconda_dose":5486905,
+            "seconda_dose":5486904,
             "pregressa_infezione":240854,
             "dose_addizionale_booster":3941493,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         },
         {
             "index":4,
             "fascia_anagrafica":"40-49",
-            "totale":20227786,
-            "sesso_maschile":10051425,
+            "totale":20227785,
+            "sesso_maschile":10051424,
             "sesso_femminile":10176361,
             "prima_dose":7334845,
             "seconda_dose":6973841,
-            "pregressa_infezione":315093,
+            "pregressa_infezione":315092,
             "dose_addizionale_booster":5603990,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         },
         {
             "index":5,
             "fascia_anagrafica":"50-59",
-            "totale":23877153,
-            "sesso_maschile":11752338,
+            "totale":23877151,
+            "sesso_maschile":11752336,
             "sesso_femminile":12124815,
             "prima_dose":8424548,
-            "seconda_dose":7882307,
-            "pregressa_infezione":363712,
+            "seconda_dose":7882306,
+            "pregressa_infezione":363711,
             "dose_addizionale_booster":7206540,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         },
         {
             "index":6,
             "fascia_anagrafica":"60-69",
-            "totale":19524598,
-            "sesso_maschile":9474716,
-            "sesso_femminile":10049882,
+            "totale":19524596,
+            "sesso_maschile":9474715,
+            "sesso_femminile":10049881,
             "prima_dose":6811401,
             "seconda_dose":6272221,
-            "pregressa_infezione":242558,
+            "pregressa_infezione":242556,
             "dose_addizionale_booster":6198360,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         },
         {
             "index":7,
@@ -142,7 +142,7 @@
             "seconda_dose":5335643,
             "pregressa_infezione":163133,
             "dose_addizionale_booster":5186376,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         },
         {
             "index":8,
@@ -154,7 +154,7 @@
             "seconda_dose":3467448,
             "pregressa_infezione":78657,
             "dose_addizionale_booster":3272317,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         },
         {
             "index":9,
@@ -166,7 +166,7 @@
             "seconda_dose":790071,
             "pregressa_infezione":20412,
             "dose_addizionale_booster":679155,
-            "ultimo_aggiornamento":"2022-02-28T00:00:00.000Z"
+            "ultimo_aggiornamento":"2022-03-01T00:00:00.000Z"
         }
     ]
 }
