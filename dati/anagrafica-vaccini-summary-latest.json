@@ -42,7 +42,7 @@
                 "type":"integer"
             },
             {
-                "name":"2nd_booster",
+                "name":"d2_booster",
                 "type":"integer"
             },
             {
@@ -67,7 +67,7 @@
             "pregressa_infezione":71019,
             "dose_addizionale_booster":0,
             "booster_immuno":0,
-            "2nd_booster":0,
+            "d2_booster":0,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         },
         {
@@ -81,7 +81,7 @@
             "pregressa_infezione":167862,
             "dose_addizionale_booster":2017120,
             "booster_immuno":146,
-            "2nd_booster":0,
+            "d2_booster":0,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         },
         {
@@ -95,7 +95,7 @@
             "pregressa_infezione":246305,
             "dose_addizionale_booster":3912834,
             "booster_immuno":961,
-            "2nd_booster":0,
+            "d2_booster":0,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         },
         {
@@ -109,7 +109,7 @@
             "pregressa_infezione":247642,
             "dose_addizionale_booster":4230928,
             "booster_immuno":1929,
-            "2nd_booster":0,
+            "d2_booster":0,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         },
         {
@@ -123,7 +123,7 @@
             "pregressa_infezione":321269,
             "dose_addizionale_booster":5865588,
             "booster_immuno":5048,
-            "2nd_booster":0,
+            "d2_booster":0,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         },
         {
@@ -137,7 +137,7 @@
             "pregressa_infezione":370357,
             "dose_addizionale_booster":7426080,
             "booster_immuno":11774,
-            "2nd_booster":0,
+            "d2_booster":0,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         },
         {
@@ -151,7 +151,7 @@
             "pregressa_infezione":245707,
             "dose_addizionale_booster":6312822,
             "booster_immuno":18282,
-            "2nd_booster":1838,
+            "d2_booster":1838,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         },
         {
@@ -165,7 +165,7 @@
             "pregressa_infezione":164732,
             "dose_addizionale_booster":5244863,
             "booster_immuno":21168,
-            "2nd_booster":2353,
+            "d2_booster":2353,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         },
         {
@@ -179,7 +179,7 @@
             "pregressa_infezione":79574,
             "dose_addizionale_booster":3301089,
             "booster_immuno":7371,
-            "2nd_booster":1726,
+            "d2_booster":1726,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         },
         {
@@ -193,7 +193,7 @@
             "pregressa_infezione":20721,
             "dose_addizionale_booster":688027,
             "booster_immuno":675,
-            "2nd_booster":271,
+            "d2_booster":271,
             "ultimo_aggiornamento":"2022-04-10T00:00:00.000Z"
         }
     ]
