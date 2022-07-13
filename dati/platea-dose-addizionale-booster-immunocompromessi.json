@@ -10,7 +10,7 @@
                 "type":"string"
             },
             {
-                "name":"reg",
+                "name":"nome_area",
                 "type":"string"
             },
             {
@@ -27,127 +27,127 @@
         {
             "index":0,
             "area":"ABR",
-            "reg":"Abruzzo",
+            "nome_area":"Abruzzo",
             "totale_popolazione":20000
         },
         {
             "index":1,
             "area":"BAS",
-            "reg":"Basilicata",
+            "nome_area":"Basilicata",
             "totale_popolazione":21594
         },
         {
             "index":2,
             "area":"CAL",
-            "reg":"Calabria",
+            "nome_area":"Calabria",
             "totale_popolazione":38000
         },
         {
             "index":3,
             "area":"CAM",
-            "reg":"Campania",
+            "nome_area":"Campania",
             "totale_popolazione":51905
         },
         {
             "index":4,
             "area":"EMR",
-            "reg":"Emilia-Romagna",
+            "nome_area":"Emilia-Romagna",
             "totale_popolazione":53217
         },
         {
             "index":5,
             "area":"FVG",
-            "reg":"Friuli-Venezia Giulia",
+            "nome_area":"Friuli-Venezia Giulia",
             "totale_popolazione":14836
         },
         {
             "index":6,
             "area":"LAZ",
-            "reg":"Lazio",
+            "nome_area":"Lazio",
             "totale_popolazione":75000
         },
         {
             "index":7,
             "area":"LIG",
-            "reg":"Liguria",
+            "nome_area":"Liguria",
             "totale_popolazione":8503
         },
         {
             "index":8,
             "area":"LOM",
-            "reg":"Lombardia",
+            "nome_area":"Lombardia",
             "totale_popolazione":194521
         },
         {
             "index":9,
             "area":"MAR",
-            "reg":"Marche",
+            "nome_area":"Marche",
             "totale_popolazione":18000
         },
         {
             "index":10,
             "area":"MOL",
-            "reg":"Molise",
+            "nome_area":"Molise",
             "totale_popolazione":7055
         },
         {
             "index":11,
             "area":"PAB",
-            "reg":"P.A. Bolzano",
+            "nome_area":"P.A. Bolzano",
             "totale_popolazione":5240
         },
         {
             "index":12,
             "area":"PAT",
-            "reg":"P.A. Trento",
+            "nome_area":"P.A. Trento",
             "totale_popolazione":8500
         },
         {
             "index":13,
             "area":"PIE",
-            "reg":"Piemonte",
+            "nome_area":"Piemonte",
             "totale_popolazione":52911
         },
         {
             "index":14,
             "area":"PUG",
-            "reg":"Puglia",
+            "nome_area":"Puglia",
             "totale_popolazione":55181
         },
         {
             "index":15,
             "area":"SAR",
-            "reg":"Sardegna",
+            "nome_area":"Sardegna",
             "totale_popolazione":15000
         },
         {
             "index":16,
             "area":"SIC",
-            "reg":"Sicilia",
+            "nome_area":"Sicilia",
             "totale_popolazione":33040
         },
         {
             "index":17,
             "area":"TOS",
-            "reg":"Toscana",
+            "nome_area":"Toscana",
             "totale_popolazione":35000
         },
         {
             "index":18,
             "area":"UMB",
-            "reg":"Umbria",
+            "nome_area":"Umbria",
             "totale_popolazione":10922
         },
         {
             "index":19,
             "area":"VDA",
-            "reg":"Valle d'Aosta",
+            "nome_area":"Valle d'Aosta",
             "totale_popolazione":800
         },
         {
             "index":20,
             "area":"VEN",
-            "reg":"Veneto",
+            "nome_area":"Veneto",
             "totale_popolazione":72151
         }
     ]
