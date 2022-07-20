@@ -32,22 +32,22 @@
             "index":0,
             "area":"ABR",
             "reg":"Abruzzo",
-            "categoria_prevalente":null,
-            "totale_popolazione":88872
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":141532
         },
         {
             "index":1,
             "area":"ABR",
             "reg":"Abruzzo",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":141532
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":115535
         },
         {
             "index":2,
             "area":"ABR",
             "reg":"Abruzzo",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":115535
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":88872
         },
         {
             "index":3,
@@ -67,22 +67,22 @@
             "index":5,
             "area":"BAS",
             "reg":"Basilicata",
-            "categoria_prevalente":null,
-            "totale_popolazione":47644
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":62022
         },
         {
             "index":6,
             "area":"BAS",
             "reg":"Basilicata",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":62022
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":45780
         },
         {
             "index":7,
             "area":"BAS",
             "reg":"Basilicata",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":45780
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":47644
         },
         {
             "index":8,
@@ -102,22 +102,22 @@
             "index":10,
             "area":"CAL",
             "reg":"Calabria",
-            "categoria_prevalente":null,
-            "totale_popolazione":104203
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":193274
         },
         {
             "index":11,
             "area":"CAL",
             "reg":"Calabria",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":193274
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":145779
         },
         {
             "index":12,
             "area":"CAL",
             "reg":"Calabria",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":145779
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":104203
         },
         {
             "index":13,
@@ -137,22 +137,22 @@
             "index":15,
             "area":"CAM",
             "reg":"Campania",
-            "categoria_prevalente":null,
-            "totale_popolazione":298063
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":536600
         },
         {
             "index":16,
             "area":"CAM",
             "reg":"Campania",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":536600
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":402230
         },
         {
             "index":17,
             "area":"CAM",
             "reg":"Campania",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":402230
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":298063
         },
         {
             "index":18,
@@ -172,22 +172,22 @@
             "index":20,
             "area":"EMR",
             "reg":"Emilia-Romagna",
-            "categoria_prevalente":null,
-            "totale_popolazione":169079
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":454495
         },
         {
             "index":21,
             "area":"EMR",
             "reg":"Emilia-Romagna",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":454495
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":381971
         },
         {
             "index":22,
             "area":"EMR",
             "reg":"Emilia-Romagna",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":381971
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":169079
         },
         {
             "index":23,
@@ -207,22 +207,22 @@
             "index":25,
             "area":"FVG",
             "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":null,
-            "totale_popolazione":38261
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":131535
         },
         {
             "index":26,
             "area":"FVG",
             "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":131535
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":118761
         },
         {
             "index":27,
             "area":"FVG",
             "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":118761
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":38261
         },
         {
             "index":28,
@@ -242,22 +242,22 @@
             "index":30,
             "area":"LAZ",
             "reg":"Lazio",
-            "categoria_prevalente":null,
-            "totale_popolazione":111101
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":612736
         },
         {
             "index":31,
             "area":"LAZ",
             "reg":"Lazio",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":612736
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":482878
         },
         {
             "index":32,
             "area":"LAZ",
             "reg":"Lazio",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":482878
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":111101
         },
         {
             "index":33,
@@ -277,22 +277,22 @@
             "index":35,
             "area":"LIG",
             "reg":"Liguria",
-            "categoria_prevalente":null,
-            "totale_popolazione":18721
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":159259
         },
         {
             "index":36,
             "area":"LIG",
             "reg":"Liguria",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":159259
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":153238
         },
         {
             "index":37,
             "area":"LIG",
             "reg":"Liguria",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":153238
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":18721
         },
         {
             "index":38,
@@ -312,22 +312,22 @@
             "index":40,
             "area":"LOM",
             "reg":"Lombardia",
-            "categoria_prevalente":null,
-            "totale_popolazione":376539
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":1034566
         },
         {
             "index":41,
             "area":"LOM",
             "reg":"Lombardia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":1034566
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":856036
         },
         {
             "index":42,
             "area":"LOM",
             "reg":"Lombardia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":856036
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":376539
         },
         {
             "index":43,
@@ -347,22 +347,22 @@
             "index":45,
             "area":"MAR",
             "reg":"Marche",
-            "categoria_prevalente":null,
-            "totale_popolazione":64951
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":159695
         },
         {
             "index":46,
             "area":"MAR",
             "reg":"Marche",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":159695
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":135499
         },
         {
             "index":47,
             "area":"MAR",
             "reg":"Marche",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":135499
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":64951
         },
         {
             "index":48,
@@ -382,22 +382,22 @@
             "index":50,
             "area":"MOL",
             "reg":"Molise",
-            "categoria_prevalente":null,
-            "totale_popolazione":17519
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":35356
         },
         {
             "index":51,
             "area":"MOL",
             "reg":"Molise",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":35356
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":27037
         },
         {
             "index":52,
             "area":"MOL",
             "reg":"Molise",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":27037
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":17519
         },
         {
             "index":53,
@@ -417,22 +417,22 @@
             "index":55,
             "area":"PAB",
             "reg":"P.A. Bolzano",
-            "categoria_prevalente":null,
-            "totale_popolazione":13256
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":46000
         },
         {
             "index":56,
             "area":"PAB",
             "reg":"P.A. Bolzano",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":46000
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":36653
         },
         {
             "index":57,
             "area":"PAB",
             "reg":"P.A. Bolzano",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":36653
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":13256
         },
         {
             "index":58,
@@ -452,22 +452,22 @@
             "index":60,
             "area":"PAT",
             "reg":"P.A. Trento",
-            "categoria_prevalente":null,
-            "totale_popolazione":11841
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":55906
         },
         {
             "index":61,
             "area":"PAT",
             "reg":"P.A. Trento",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":55906
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":45267
         },
         {
             "index":62,
             "area":"PAT",
             "reg":"P.A. Trento",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":45267
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":11841
         },
         {
             "index":63,
@@ -487,22 +487,22 @@
             "index":65,
             "area":"PIE",
             "reg":"Piemonte",
-            "categoria_prevalente":null,
-            "totale_popolazione":240163
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":438177
         },
         {
             "index":66,
             "area":"PIE",
             "reg":"Piemonte",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":438177
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":372683
         },
         {
             "index":67,
             "area":"PIE",
             "reg":"Piemonte",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":372683
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":240163
         },
         {
             "index":68,
@@ -522,22 +522,22 @@
             "index":70,
             "area":"PUG",
             "reg":"Puglia",
-            "categoria_prevalente":null,
-            "totale_popolazione":152554
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":436039
         },
         {
             "index":71,
             "area":"PUG",
             "reg":"Puglia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":436039
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":356740
         },
         {
             "index":72,
             "area":"PUG",
             "reg":"Puglia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":356740
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":152554
         },
         {
             "index":73,
@@ -557,22 +557,22 @@
             "index":75,
             "area":"SAR",
             "reg":"Sardegna",
-            "categoria_prevalente":null,
-            "totale_popolazione":70397
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":185017
         },
         {
             "index":76,
             "area":"SAR",
             "reg":"Sardegna",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":185017
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":147568
         },
         {
             "index":77,
             "area":"SAR",
             "reg":"Sardegna",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":147568
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":70397
         },
         {
             "index":78,
@@ -592,22 +592,22 @@
             "index":80,
             "area":"SIC",
             "reg":"Sicilia",
-            "categoria_prevalente":null,
-            "totale_popolazione":195460
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":458242
         },
         {
             "index":81,
             "area":"SIC",
             "reg":"Sicilia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":458242
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":359198
         },
         {
             "index":82,
             "area":"SIC",
             "reg":"Sicilia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":359198
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":195460
         },
         {
             "index":83,
@@ -627,22 +627,22 @@
             "index":85,
             "area":"TOS",
             "reg":"Toscana",
-            "categoria_prevalente":null,
-            "totale_popolazione":108723
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":388522
         },
         {
             "index":86,
             "area":"TOS",
             "reg":"Toscana",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":388522
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":347171
         },
         {
             "index":87,
             "area":"TOS",
             "reg":"Toscana",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":347171
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":108723
         },
         {
             "index":88,
@@ -662,22 +662,22 @@
             "index":90,
             "area":"UMB",
             "reg":"Umbria",
-            "categoria_prevalente":null,
-            "totale_popolazione":45874
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":96191
         },
         {
             "index":91,
             "area":"UMB",
             "reg":"Umbria",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":96191
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":83755
         },
         {
             "index":92,
             "area":"UMB",
             "reg":"Umbria",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":83755
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":45874
         },
         {
             "index":93,
@@ -697,22 +697,22 @@
             "index":95,
             "area":"VDA",
             "reg":"Valle d'Aosta",
-            "categoria_prevalente":null,
-            "totale_popolazione":3222
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":12992
         },
         {
             "index":96,
             "area":"VDA",
             "reg":"Valle d'Aosta",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":12992
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":11641
         },
         {
             "index":97,
             "area":"VDA",
             "reg":"Valle d'Aosta",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":11641
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":3222
         },
         {
             "index":98,
@@ -732,22 +732,22 @@
             "index":100,
             "area":"VEN",
             "reg":"Veneto",
-            "categoria_prevalente":null,
-            "totale_popolazione":153521
+            "categoria_prevalente":"60-69",
+            "totale_popolazione":510184
         },
         {
             "index":101,
             "area":"VEN",
             "reg":"Veneto",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":510184
+            "categoria_prevalente":"70-79",
+            "totale_popolazione":427766
         },
         {
             "index":102,
             "area":"VEN",
             "reg":"Veneto",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":427766
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":153521
         },
         {
             "index":103,
