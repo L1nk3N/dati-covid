@@ -32,1177 +32,589 @@
             "index":0,
             "area":"ABR",
             "reg":"Abruzzo",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":42935
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":157676
         },
         {
             "index":1,
             "area":"ABR",
             "reg":"Abruzzo",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":83741
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":6654
         },
         {
             "index":2,
             "area":"ABR",
             "reg":"Abruzzo",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":93365
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":245002
         },
         {
             "index":3,
             "area":"ABR",
             "reg":"Abruzzo",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":128123
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":42352
         },
         {
             "index":4,
-            "area":"ABR",
-            "reg":"Abruzzo",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":161933
+            "area":"BAS",
+            "reg":"Basilicata",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":81859
         },
         {
             "index":5,
-            "area":"ABR",
-            "reg":"Abruzzo",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":145143
+            "area":"BAS",
+            "reg":"Basilicata",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":1751
         },
         {
             "index":6,
-            "area":"ABR",
-            "reg":"Abruzzo",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":118702
+            "area":"BAS",
+            "reg":"Basilicata",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":105602
         },
         {
             "index":7,
-            "area":"ABR",
-            "reg":"Abruzzo",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":91522
+            "area":"BAS",
+            "reg":"Basilicata",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":15872
         },
         {
             "index":8,
-            "area":"BAS",
-            "reg":"Basilicata",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":20140
+            "area":"CAL",
+            "reg":"Calabria",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":220789
         },
         {
             "index":9,
-            "area":"BAS",
-            "reg":"Basilicata",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":35429
+            "area":"CAL",
+            "reg":"Calabria",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":12327
         },
         {
             "index":10,
-            "area":"BAS",
-            "reg":"Basilicata",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":38796
+            "area":"CAL",
+            "reg":"Calabria",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":309578
         },
         {
             "index":11,
-            "area":"BAS",
-            "reg":"Basilicata",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":53690
+            "area":"CAL",
+            "reg":"Calabria",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":55415
         },
         {
             "index":12,
-            "area":"BAS",
-            "reg":"Basilicata",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":69818
+            "area":"CAM",
+            "reg":"Campania",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":610762
         },
         {
             "index":13,
-            "area":"BAS",
-            "reg":"Basilicata",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":64172
+            "area":"CAM",
+            "reg":"Campania",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":7643
         },
         {
             "index":14,
-            "area":"BAS",
-            "reg":"Basilicata",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":47712
+            "area":"CAM",
+            "reg":"Campania",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":939930
         },
         {
             "index":15,
-            "area":"BAS",
-            "reg":"Basilicata",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":37608
+            "area":"CAM",
+            "reg":"Campania",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":119338
         },
         {
             "index":16,
-            "area":"CAL",
-            "reg":"Calabria",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":57003
+            "area":"EMR",
+            "reg":"Emilia-Romagna",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":218778
         },
         {
             "index":17,
-            "area":"CAL",
-            "reg":"Calabria",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":117665
+            "area":"EMR",
+            "reg":"Emilia-Romagna",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":25642
         },
         {
             "index":18,
-            "area":"CAL",
-            "reg":"Calabria",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":127827
+            "area":"EMR",
+            "reg":"Emilia-Romagna",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":1058004
         },
         {
             "index":19,
-            "area":"CAL",
-            "reg":"Calabria",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":166329
+            "area":"EMR",
+            "reg":"Emilia-Romagna",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":150326
         },
         {
             "index":20,
-            "area":"CAL",
-            "reg":"Calabria",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":207093
+            "area":"FVG",
+            "reg":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":73490
         },
         {
             "index":21,
-            "area":"CAL",
-            "reg":"Calabria",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":199133
+            "area":"FVG",
+            "reg":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":7726
         },
         {
             "index":22,
-            "area":"CAL",
-            "reg":"Calabria",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":150360
+            "area":"FVG",
+            "reg":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":300326
         },
         {
             "index":23,
-            "area":"CAL",
-            "reg":"Calabria",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":102243
+            "area":"FVG",
+            "reg":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":43425
         },
         {
             "index":24,
-            "area":"CAM",
-            "reg":"Campania",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":210545
+            "area":"LAZ",
+            "reg":"Lazio",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":63970
         },
         {
             "index":25,
-            "area":"CAM",
-            "reg":"Campania",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":406791
+            "area":"LAZ",
+            "reg":"Lazio",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":17427
         },
         {
             "index":26,
-            "area":"CAM",
-            "reg":"Campania",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":417885
+            "area":"LAZ",
+            "reg":"Lazio",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":1443961
         },
         {
             "index":27,
-            "area":"CAM",
-            "reg":"Campania",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":547549
+            "area":"LAZ",
+            "reg":"Lazio",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":95867
         },
         {
             "index":28,
-            "area":"CAM",
-            "reg":"Campania",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":668710
+            "area":"LIG",
+            "reg":"Liguria",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":23749
         },
         {
             "index":29,
-            "area":"CAM",
-            "reg":"Campania",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":557224
+            "area":"LIG",
+            "reg":"Liguria",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":8835
         },
         {
             "index":30,
-            "area":"CAM",
-            "reg":"Campania",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":418034
+            "area":"LIG",
+            "reg":"Liguria",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":428323
         },
         {
             "index":31,
-            "area":"CAM",
-            "reg":"Campania",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":251306
+            "area":"LIG",
+            "reg":"Liguria",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":33031
         },
         {
             "index":32,
-            "area":"EMR",
-            "reg":"Emilia-Romagna",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":154095
+            "area":"LOM",
+            "reg":"Lombardia",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":558573
         },
         {
             "index":33,
-            "area":"EMR",
-            "reg":"Emilia-Romagna",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":293552
+            "area":"LOM",
+            "reg":"Lombardia",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":72601
         },
         {
             "index":34,
-            "area":"EMR",
-            "reg":"Emilia-Romagna",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":323299
+            "area":"LOM",
+            "reg":"Lombardia",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":2374816
         },
         {
             "index":35,
-            "area":"EMR",
-            "reg":"Emilia-Romagna",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":452211
+            "area":"LOM",
+            "reg":"Lombardia",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":319089
         },
         {
             "index":36,
-            "area":"EMR",
-            "reg":"Emilia-Romagna",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":572382
+            "area":"MAR",
+            "reg":"Marche",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":116459
         },
         {
             "index":37,
-            "area":"EMR",
-            "reg":"Emilia-Romagna",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":478394
+            "area":"MAR",
+            "reg":"Marche",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":8031
         },
         {
             "index":38,
-            "area":"EMR",
-            "reg":"Emilia-Romagna",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":407037
+            "area":"MAR",
+            "reg":"Marche",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":351741
         },
         {
             "index":39,
-            "area":"EMR",
-            "reg":"Emilia-Romagna",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":345918
+            "area":"MAR",
+            "reg":"Marche",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":51241
         },
         {
             "index":40,
-            "area":"FVG",
-            "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":35077
+            "area":"MOL",
+            "reg":"Molise",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":12959
         },
         {
             "index":41,
-            "area":"FVG",
-            "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":74009
+            "area":"MOL",
+            "reg":"Molise",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":2133
         },
         {
             "index":42,
-            "area":"FVG",
-            "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":76728
+            "area":"MOL",
+            "reg":"Molise",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":75702
         },
         {
             "index":43,
-            "area":"FVG",
-            "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":110734
+            "area":"MOL",
+            "reg":"Molise",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":5689
         },
         {
             "index":44,
-            "area":"FVG",
-            "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":147230
+            "area":"PAB",
+            "reg":"P.A. Bolzano",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":12532
         },
         {
             "index":45,
-            "area":"FVG",
-            "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":135606
+            "area":"PAB",
+            "reg":"P.A. Bolzano",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":2812
         },
         {
             "index":46,
-            "area":"FVG",
-            "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":121624
+            "area":"PAB",
+            "reg":"P.A. Bolzano",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":103180
         },
         {
             "index":47,
-            "area":"FVG",
-            "reg":"Friuli-Venezia Giulia",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":95966
+            "area":"PAB",
+            "reg":"P.A. Bolzano",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":14397
         },
         {
             "index":48,
-            "area":"LAZ",
-            "reg":"Lazio",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":197588
+            "area":"PAT",
+            "reg":"P.A. Trento",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":4685
         },
         {
             "index":49,
-            "area":"LAZ",
-            "reg":"Lazio",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":387449
+            "area":"PAT",
+            "reg":"P.A. Trento",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":4878
         },
         {
             "index":50,
-            "area":"LAZ",
-            "reg":"Lazio",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":452752
+            "area":"PAT",
+            "reg":"P.A. Trento",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":131162
         },
         {
             "index":51,
-            "area":"LAZ",
-            "reg":"Lazio",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":634201
+            "area":"PAT",
+            "reg":"P.A. Trento",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":13857
         },
         {
             "index":52,
-            "area":"LAZ",
-            "reg":"Lazio",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":775377
+            "area":"PIE",
+            "reg":"Piemonte",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":358280
         },
         {
             "index":53,
-            "area":"LAZ",
-            "reg":"Lazio",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":629930
+            "area":"PIE",
+            "reg":"Piemonte",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":33267
         },
         {
             "index":54,
-            "area":"LAZ",
-            "reg":"Lazio",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":502942
+            "area":"PIE",
+            "reg":"Piemonte",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":999124
         },
         {
             "index":55,
-            "area":"LAZ",
-            "reg":"Lazio",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":374025
+            "area":"PIE",
+            "reg":"Piemonte",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":178066
         },
         {
             "index":56,
-            "area":"LIG",
-            "reg":"Liguria",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":39580
+            "area":"PUG",
+            "reg":"Puglia",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":293736
         },
         {
             "index":57,
-            "area":"LIG",
-            "reg":"Liguria",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":89110
+            "area":"PUG",
+            "reg":"Puglia",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":14048
         },
         {
             "index":58,
-            "area":"LIG",
-            "reg":"Liguria",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":93179
+            "area":"PUG",
+            "reg":"Puglia",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":874233
         },
         {
             "index":59,
-            "area":"LIG",
-            "reg":"Liguria",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":126343
+            "area":"PUG",
+            "reg":"Puglia",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":99206
         },
         {
             "index":60,
-            "area":"LIG",
-            "reg":"Liguria",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":190141
+            "area":"SAR",
+            "reg":"Sardegna",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":156072
         },
         {
             "index":61,
-            "area":"LIG",
-            "reg":"Liguria",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":164545
+            "area":"SAR",
+            "reg":"Sardegna",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":9250
         },
         {
             "index":62,
-            "area":"LIG",
-            "reg":"Liguria",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":156730
+            "area":"SAR",
+            "reg":"Sardegna",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":328977
         },
         {
             "index":63,
-            "area":"LIG",
-            "reg":"Liguria",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":137438
+            "area":"SAR",
+            "reg":"Sardegna",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":63721
         },
         {
             "index":64,
-            "area":"LOM",
-            "reg":"Lombardia",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":420582
+            "area":"SIC",
+            "reg":"Sicilia",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":599164
         },
         {
             "index":65,
-            "area":"LOM",
-            "reg":"Lombardia",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":768271
+            "area":"SIC",
+            "reg":"Sicilia",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":24285
         },
         {
             "index":66,
-            "area":"LOM",
-            "reg":"Lombardia",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":842878
+            "area":"SIC",
+            "reg":"Sicilia",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":690197
         },
         {
             "index":67,
-            "area":"LOM",
-            "reg":"Lombardia",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":1110358
+            "area":"SIC",
+            "reg":"Sicilia",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":143546
         },
         {
             "index":68,
-            "area":"LOM",
-            "reg":"Lombardia",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":1369488
+            "area":"TOS",
+            "reg":"Toscana",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":126154
         },
         {
             "index":69,
-            "area":"LOM",
-            "reg":"Lombardia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":1068005
+            "area":"TOS",
+            "reg":"Toscana",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":16046
         },
         {
             "index":70,
-            "area":"LOM",
-            "reg":"Lombardia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":891395
+            "area":"TOS",
+            "reg":"Toscana",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":952271
         },
         {
             "index":71,
-            "area":"LOM",
-            "reg":"Lombardia",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":702963
+            "area":"TOS",
+            "reg":"Toscana",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":114065
         },
         {
             "index":72,
-            "area":"MAR",
-            "reg":"Marche",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":43042
+            "area":"UMB",
+            "reg":"Umbria",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":125510
         },
         {
             "index":73,
-            "area":"MAR",
-            "reg":"Marche",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":92034
+            "area":"UMB",
+            "reg":"Umbria",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":3496
         },
         {
             "index":74,
-            "area":"MAR",
-            "reg":"Marche",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":98009
+            "area":"UMB",
+            "reg":"Umbria",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":187403
         },
         {
             "index":75,
-            "area":"MAR",
-            "reg":"Marche",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":141755
+            "area":"UMB",
+            "reg":"Umbria",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":35733
         },
         {
             "index":76,
-            "area":"MAR",
-            "reg":"Marche",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":180814
+            "area":"VDA",
+            "reg":"Valle d'Aosta",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":6235
         },
         {
             "index":77,
-            "area":"MAR",
-            "reg":"Marche",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":164330
+            "area":"VDA",
+            "reg":"Valle d'Aosta",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":1301
         },
         {
             "index":78,
-            "area":"MAR",
-            "reg":"Marche",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":139487
+            "area":"VDA",
+            "reg":"Valle d'Aosta",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":30076
         },
         {
             "index":79,
-            "area":"MAR",
-            "reg":"Marche",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":119071
+            "area":"VDA",
+            "reg":"Valle d'Aosta",
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":5159
         },
         {
             "index":80,
-            "area":"MOL",
-            "reg":"Molise",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":10524
+            "area":"VEN",
+            "reg":"Veneto",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":168648
         },
         {
             "index":81,
-            "area":"MOL",
-            "reg":"Molise",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":18430
+            "area":"VEN",
+            "reg":"Veneto",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":40821
         },
         {
             "index":82,
-            "area":"MOL",
-            "reg":"Molise",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":20969
+            "area":"VEN",
+            "reg":"Veneto",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":1130854
         },
         {
             "index":83,
-            "area":"MOL",
-            "reg":"Molise",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":29480
-        },
-        {
-            "index":84,
-            "area":"MOL",
-            "reg":"Molise",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":38760
-        },
-        {
-            "index":85,
-            "area":"MOL",
-            "reg":"Molise",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":35981
-        },
-        {
-            "index":86,
-            "area":"MOL",
-            "reg":"Molise",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":27663
-        },
-        {
-            "index":87,
-            "area":"MOL",
-            "reg":"Molise",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":23059
-        },
-        {
-            "index":88,
-            "area":"PAB",
-            "reg":"P.A. Bolzano",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":13995
-        },
-        {
-            "index":89,
-            "area":"PAB",
-            "reg":"P.A. Bolzano",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":34470
-        },
-        {
-            "index":90,
-            "area":"PAB",
-            "reg":"P.A. Bolzano",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":36526
-        },
-        {
-            "index":91,
-            "area":"PAB",
-            "reg":"P.A. Bolzano",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":47264
-        },
-        {
-            "index":92,
-            "area":"PAB",
-            "reg":"P.A. Bolzano",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":60923
-        },
-        {
-            "index":93,
-            "area":"PAB",
-            "reg":"P.A. Bolzano",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":47467
-        },
-        {
-            "index":94,
-            "area":"PAB",
-            "reg":"P.A. Bolzano",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":38002
-        },
-        {
-            "index":95,
-            "area":"PAB",
-            "reg":"P.A. Bolzano",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":29221
-        },
-        {
-            "index":96,
-            "area":"PAT",
-            "reg":"P.A. Trento",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":19057
-        },
-        {
-            "index":97,
-            "area":"PAT",
-            "reg":"P.A. Trento",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":40002
-        },
-        {
-            "index":98,
-            "area":"PAT",
-            "reg":"P.A. Trento",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":38864
-        },
-        {
-            "index":99,
-            "area":"PAT",
-            "reg":"P.A. Trento",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":50149
-        },
-        {
-            "index":100,
-            "area":"PAT",
-            "reg":"P.A. Trento",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":67774
-        },
-        {
-            "index":101,
-            "area":"PAT",
-            "reg":"P.A. Trento",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":57791
-        },
-        {
-            "index":102,
-            "area":"PAT",
-            "reg":"P.A. Trento",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":46729
-        },
-        {
-            "index":103,
-            "area":"PAT",
-            "reg":"P.A. Trento",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":35778
-        },
-        {
-            "index":104,
-            "area":"PIE",
-            "reg":"Piemonte",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":149839
-        },
-        {
-            "index":105,
-            "area":"PIE",
-            "reg":"Piemonte",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":294385
-        },
-        {
-            "index":106,
-            "area":"PIE",
-            "reg":"Piemonte",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":304589
-        },
-        {
-            "index":107,
-            "area":"PIE",
-            "reg":"Piemonte",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":417307
-        },
-        {
-            "index":108,
-            "area":"PIE",
-            "reg":"Piemonte",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":552367
-        },
-        {
-            "index":109,
-            "area":"PIE",
-            "reg":"Piemonte",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":477221
-        },
-        {
-            "index":110,
-            "area":"PIE",
-            "reg":"Piemonte",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":421295
-        },
-        {
-            "index":111,
-            "area":"PIE",
-            "reg":"Piemonte",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":346673
-        },
-        {
-            "index":112,
-            "area":"PUG",
-            "reg":"Puglia",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":159119
-        },
-        {
-            "index":113,
-            "area":"PUG",
-            "reg":"Puglia",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":275467
-        },
-        {
-            "index":114,
-            "area":"PUG",
-            "reg":"Puglia",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":299371
-        },
-        {
-            "index":115,
-            "area":"PUG",
-            "reg":"Puglia",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":424024
-        },
-        {
-            "index":116,
-            "area":"PUG",
-            "reg":"Puglia",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":510803
-        },
-        {
-            "index":117,
-            "area":"PUG",
-            "reg":"Puglia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":445428
-        },
-        {
-            "index":118,
-            "area":"PUG",
-            "reg":"Puglia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":366122
-        },
-        {
-            "index":119,
-            "area":"PUG",
-            "reg":"Puglia",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":247140
-        },
-        {
-            "index":120,
-            "area":"SAR",
-            "reg":"Sardegna",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":50292
-        },
-        {
-            "index":121,
-            "area":"SAR",
-            "reg":"Sardegna",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":88681
-        },
-        {
-            "index":122,
-            "area":"SAR",
-            "reg":"Sardegna",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":106327
-        },
-        {
-            "index":123,
-            "area":"SAR",
-            "reg":"Sardegna",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":164312
-        },
-        {
-            "index":124,
-            "area":"SAR",
-            "reg":"Sardegna",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":203325
-        },
-        {
-            "index":125,
-            "area":"SAR",
-            "reg":"Sardegna",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":186373
-        },
-        {
-            "index":126,
-            "area":"SAR",
-            "reg":"Sardegna",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":149943
-        },
-        {
-            "index":127,
-            "area":"SAR",
-            "reg":"Sardegna",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":103993
-        },
-        {
-            "index":128,
-            "area":"SIC",
-            "reg":"Sicilia",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":146323
-        },
-        {
-            "index":129,
-            "area":"SIC",
-            "reg":"Sicilia",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":298007
-        },
-        {
-            "index":130,
-            "area":"SIC",
-            "reg":"Sicilia",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":310971
-        },
-        {
-            "index":131,
-            "area":"SIC",
-            "reg":"Sicilia",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":418098
-        },
-        {
-            "index":132,
-            "area":"SIC",
-            "reg":"Sicilia",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":523405
-        },
-        {
-            "index":133,
-            "area":"SIC",
-            "reg":"Sicilia",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":476700
-        },
-        {
-            "index":134,
-            "area":"SIC",
-            "reg":"Sicilia",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":373912
-        },
-        {
-            "index":135,
-            "area":"SIC",
-            "reg":"Sicilia",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":253639
-        },
-        {
-            "index":136,
-            "area":"TOS",
-            "reg":"Toscana",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":122726
-        },
-        {
-            "index":137,
-            "area":"TOS",
-            "reg":"Toscana",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":227741
-        },
-        {
-            "index":138,
-            "area":"TOS",
-            "reg":"Toscana",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":256936
-        },
-        {
-            "index":139,
-            "area":"TOS",
-            "reg":"Toscana",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":362768
-        },
-        {
-            "index":140,
-            "area":"TOS",
-            "reg":"Toscana",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":473666
-        },
-        {
-            "index":141,
-            "area":"TOS",
-            "reg":"Toscana",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":403223
-        },
-        {
-            "index":142,
-            "area":"TOS",
-            "reg":"Toscana",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":364191
-        },
-        {
-            "index":143,
-            "area":"TOS",
-            "reg":"Toscana",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":305990
-        },
-        {
-            "index":144,
-            "area":"UMB",
-            "reg":"Umbria",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":27306
-        },
-        {
-            "index":145,
-            "area":"UMB",
-            "reg":"Umbria",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":51097
-        },
-        {
-            "index":146,
-            "area":"UMB",
-            "reg":"Umbria",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":60033
-        },
-        {
-            "index":147,
-            "area":"UMB",
-            "reg":"Umbria",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":86872
-        },
-        {
-            "index":148,
-            "area":"UMB",
-            "reg":"Umbria",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":108703
-        },
-        {
-            "index":149,
-            "area":"UMB",
-            "reg":"Umbria",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":98671
-        },
-        {
-            "index":150,
-            "area":"UMB",
-            "reg":"Umbria",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":86771
-        },
-        {
-            "index":151,
-            "area":"UMB",
-            "reg":"Umbria",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":75319
-        },
-        {
-            "index":152,
-            "area":"VDA",
-            "reg":"Valle d'Aosta",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":4137
-        },
-        {
-            "index":153,
-            "area":"VDA",
-            "reg":"Valle d'Aosta",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":8124
-        },
-        {
-            "index":154,
-            "area":"VDA",
-            "reg":"Valle d'Aosta",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":8249
-        },
-        {
-            "index":155,
-            "area":"VDA",
-            "reg":"Valle d'Aosta",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":11627
-        },
-        {
-            "index":156,
-            "area":"VDA",
-            "reg":"Valle d'Aosta",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":16603
-        },
-        {
-            "index":157,
-            "area":"VDA",
-            "reg":"Valle d'Aosta",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":13476
-        },
-        {
-            "index":158,
-            "area":"VDA",
-            "reg":"Valle d'Aosta",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":12089
-        },
-        {
-            "index":159,
-            "area":"VDA",
-            "reg":"Valle d'Aosta",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":9925
-        },
-        {
-            "index":160,
             "area":"VEN",
             "reg":"Veneto",
-            "categoria_prevalente":"12-19",
-            "totale_popolazione":161679
-        },
-        {
-            "index":161,
-            "area":"VEN",
-            "reg":"Veneto",
-            "categoria_prevalente":"20-29",
-            "totale_popolazione":318013
-        },
-        {
-            "index":162,
-            "area":"VEN",
-            "reg":"Veneto",
-            "categoria_prevalente":"30-39",
-            "totale_popolazione":322956
-        },
-        {
-            "index":163,
-            "area":"VEN",
-            "reg":"Veneto",
-            "categoria_prevalente":"40-49",
-            "totale_popolazione":473499
-        },
-        {
-            "index":164,
-            "area":"VEN",
-            "reg":"Veneto",
-            "categoria_prevalente":"50-59",
-            "totale_popolazione":624534
-        },
-        {
-            "index":165,
-            "area":"VEN",
-            "reg":"Veneto",
-            "categoria_prevalente":"60-69",
-            "totale_popolazione":523166
-        },
-        {
-            "index":166,
-            "area":"VEN",
-            "reg":"Veneto",
-            "categoria_prevalente":"70-79",
-            "totale_popolazione":439524
-        },
-        {
-            "index":167,
-            "area":"VEN",
-            "reg":"Veneto",
-            "categoria_prevalente":"Over 80",
-            "totale_popolazione":336683
+            "categoria_prevalente":"Personale Sanitario",
+            "totale_popolazione":148861
         }
     ]
 }
