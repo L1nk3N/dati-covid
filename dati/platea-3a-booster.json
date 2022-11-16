@@ -1,0 +1,466 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"area",
+                "type":"string"
+            },
+            {
+                "name":"reg",
+                "type":"string"
+            },
+            {
+                "name":"categoria_prevalente",
+                "type":"string"
+            },
+            {
+                "name":"totale_popolazione",
+                "type":"integer"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"0.20.0"
+    },
+    "data":[
+        {
+            "index":0,
+            "area":"ABR",
+            "reg":"Abruzzo",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":580
+        },
+        {
+            "index":1,
+            "area":"ABR",
+            "reg":"Abruzzo",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":6650
+        },
+        {
+            "index":2,
+            "area":"ABR",
+            "reg":"Abruzzo",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":15509
+        },
+        {
+            "index":3,
+            "area":"BAS",
+            "reg":"Basilicata",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":124
+        },
+        {
+            "index":4,
+            "area":"BAS",
+            "reg":"Basilicata",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":3652
+        },
+        {
+            "index":5,
+            "area":"BAS",
+            "reg":"Basilicata",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":5467
+        },
+        {
+            "index":6,
+            "area":"CAL",
+            "reg":"Calabria",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":1218
+        },
+        {
+            "index":7,
+            "area":"CAL",
+            "reg":"Calabria",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":5947
+        },
+        {
+            "index":8,
+            "area":"CAL",
+            "reg":"Calabria",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":12514
+        },
+        {
+            "index":9,
+            "area":"CAM",
+            "reg":"Campania",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":1013
+        },
+        {
+            "index":10,
+            "area":"CAM",
+            "reg":"Campania",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":26031
+        },
+        {
+            "index":11,
+            "area":"CAM",
+            "reg":"Campania",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":52581
+        },
+        {
+            "index":12,
+            "area":"EMR",
+            "reg":"Emilia-Romagna",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":7098
+        },
+        {
+            "index":13,
+            "area":"EMR",
+            "reg":"Emilia-Romagna",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":47057
+        },
+        {
+            "index":14,
+            "area":"EMR",
+            "reg":"Emilia-Romagna",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":158181
+        },
+        {
+            "index":15,
+            "area":"FVG",
+            "reg":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":992
+        },
+        {
+            "index":16,
+            "area":"FVG",
+            "reg":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":3414
+        },
+        {
+            "index":17,
+            "area":"FVG",
+            "reg":"Friuli-Venezia Giulia",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":20213
+        },
+        {
+            "index":18,
+            "area":"LAZ",
+            "reg":"Lazio",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":38744
+        },
+        {
+            "index":19,
+            "area":"LAZ",
+            "reg":"Lazio",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":96779
+        },
+        {
+            "index":20,
+            "area":"LIG",
+            "reg":"Liguria",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":1381
+        },
+        {
+            "index":21,
+            "area":"LIG",
+            "reg":"Liguria",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":3273
+        },
+        {
+            "index":22,
+            "area":"LIG",
+            "reg":"Liguria",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":35241
+        },
+        {
+            "index":23,
+            "area":"LOM",
+            "reg":"Lombardia",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":36388
+        },
+        {
+            "index":24,
+            "area":"LOM",
+            "reg":"Lombardia",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":67829
+        },
+        {
+            "index":25,
+            "area":"LOM",
+            "reg":"Lombardia",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":157550
+        },
+        {
+            "index":26,
+            "area":"MAR",
+            "reg":"Marche",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":1435
+        },
+        {
+            "index":27,
+            "area":"MAR",
+            "reg":"Marche",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":6603
+        },
+        {
+            "index":28,
+            "area":"MAR",
+            "reg":"Marche",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":13829
+        },
+        {
+            "index":29,
+            "area":"MOL",
+            "reg":"Molise",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":174
+        },
+        {
+            "index":30,
+            "area":"MOL",
+            "reg":"Molise",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":1111
+        },
+        {
+            "index":31,
+            "area":"MOL",
+            "reg":"Molise",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":6869
+        },
+        {
+            "index":32,
+            "area":"PAB",
+            "reg":"P.A. Bolzano",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":828
+        },
+        {
+            "index":33,
+            "area":"PAB",
+            "reg":"P.A. Bolzano",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":2470
+        },
+        {
+            "index":34,
+            "area":"PAB",
+            "reg":"P.A. Bolzano",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":3907
+        },
+        {
+            "index":35,
+            "area":"PAT",
+            "reg":"P.A. Trento",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":1830
+        },
+        {
+            "index":36,
+            "area":"PAT",
+            "reg":"P.A. Trento",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":1695
+        },
+        {
+            "index":37,
+            "area":"PAT",
+            "reg":"P.A. Trento",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":9716
+        },
+        {
+            "index":38,
+            "area":"PIE",
+            "reg":"Piemonte",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":14926
+        },
+        {
+            "index":39,
+            "area":"PIE",
+            "reg":"Piemonte",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":82758
+        },
+        {
+            "index":40,
+            "area":"PIE",
+            "reg":"Piemonte",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":194151
+        },
+        {
+            "index":41,
+            "area":"PUG",
+            "reg":"Puglia",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":2672
+        },
+        {
+            "index":42,
+            "area":"PUG",
+            "reg":"Puglia",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":20239
+        },
+        {
+            "index":43,
+            "area":"PUG",
+            "reg":"Puglia",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":47707
+        },
+        {
+            "index":44,
+            "area":"SAR",
+            "reg":"Sardegna",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":1094
+        },
+        {
+            "index":45,
+            "area":"SAR",
+            "reg":"Sardegna",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":9668
+        },
+        {
+            "index":46,
+            "area":"SAR",
+            "reg":"Sardegna",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":13747
+        },
+        {
+            "index":47,
+            "area":"SIC",
+            "reg":"Sicilia",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":2256
+        },
+        {
+            "index":48,
+            "area":"SIC",
+            "reg":"Sicilia",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":16795
+        },
+        {
+            "index":49,
+            "area":"SIC",
+            "reg":"Sicilia",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":31036
+        },
+        {
+            "index":50,
+            "area":"TOS",
+            "reg":"Toscana",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":2371
+        },
+        {
+            "index":51,
+            "area":"TOS",
+            "reg":"Toscana",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":24388
+        },
+        {
+            "index":52,
+            "area":"TOS",
+            "reg":"Toscana",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":93331
+        },
+        {
+            "index":53,
+            "area":"UMB",
+            "reg":"Umbria",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":525
+        },
+        {
+            "index":54,
+            "area":"UMB",
+            "reg":"Umbria",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":6927
+        },
+        {
+            "index":55,
+            "area":"UMB",
+            "reg":"Umbria",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":10704
+        },
+        {
+            "index":56,
+            "area":"VDA",
+            "reg":"Valle d'Aosta",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":389
+        },
+        {
+            "index":57,
+            "area":"VDA",
+            "reg":"Valle d'Aosta",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":844
+        },
+        {
+            "index":58,
+            "area":"VDA",
+            "reg":"Valle d'Aosta",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":1027
+        },
+        {
+            "index":59,
+            "area":"VEN",
+            "reg":"Veneto",
+            "categoria_prevalente":"fragili_immunocompromessi",
+            "totale_popolazione":10752
+        },
+        {
+            "index":60,
+            "area":"VEN",
+            "reg":"Veneto",
+            "categoria_prevalente":"Ospiti RSA",
+            "totale_popolazione":22808
+        },
+        {
+            "index":61,
+            "area":"VEN",
+            "reg":"Veneto",
+            "categoria_prevalente":"Over 60",
+            "totale_popolazione":88786
+        }
+    ]
+}

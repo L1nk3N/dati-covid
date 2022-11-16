@@ -1,0 +1,63 @@
+area,reg,categoria_prevalente,totale_popolazione
+ABR,Abruzzo,fragili_immunocompromessi,580
+ABR,Abruzzo,Ospiti RSA,6650
+ABR,Abruzzo,Over 60,15509
+BAS,Basilicata,fragili_immunocompromessi,124
+BAS,Basilicata,Ospiti RSA,3652
+BAS,Basilicata,Over 60,5467
+CAL,Calabria,fragili_immunocompromessi,1218
+CAL,Calabria,Ospiti RSA,5947
+CAL,Calabria,Over 60,12514
+CAM,Campania,fragili_immunocompromessi,1013
+CAM,Campania,Ospiti RSA,26031
+CAM,Campania,Over 60,52581
+EMR,Emilia-Romagna,fragili_immunocompromessi,7098
+EMR,Emilia-Romagna,Ospiti RSA,47057
+EMR,Emilia-Romagna,Over 60,158181
+FVG,Friuli-Venezia Giulia,fragili_immunocompromessi,992
+FVG,Friuli-Venezia Giulia,Ospiti RSA,3414
+FVG,Friuli-Venezia Giulia,Over 60,20213
+LAZ,Lazio,Ospiti RSA,38744
+LAZ,Lazio,Over 60,96779
+LIG,Liguria,fragili_immunocompromessi,1381
+LIG,Liguria,Ospiti RSA,3273
+LIG,Liguria,Over 60,35241
+LOM,Lombardia,fragili_immunocompromessi,36388
+LOM,Lombardia,Ospiti RSA,67829
+LOM,Lombardia,Over 60,157550
+MAR,Marche,fragili_immunocompromessi,1435
+MAR,Marche,Ospiti RSA,6603
+MAR,Marche,Over 60,13829
+MOL,Molise,fragili_immunocompromessi,174
+MOL,Molise,Ospiti RSA,1111
+MOL,Molise,Over 60,6869
+PAB,P.A. Bolzano,fragili_immunocompromessi,828
+PAB,P.A. Bolzano,Ospiti RSA,2470
+PAB,P.A. Bolzano,Over 60,3907
+PAT,P.A. Trento,fragili_immunocompromessi,1830
+PAT,P.A. Trento,Ospiti RSA,1695
+PAT,P.A. Trento,Over 60,9716
+PIE,Piemonte,fragili_immunocompromessi,14926
+PIE,Piemonte,Ospiti RSA,82758
+PIE,Piemonte,Over 60,194151
+PUG,Puglia,fragili_immunocompromessi,2672
+PUG,Puglia,Ospiti RSA,20239
+PUG,Puglia,Over 60,47707
+SAR,Sardegna,fragili_immunocompromessi,1094
+SAR,Sardegna,Ospiti RSA,9668
+SAR,Sardegna,Over 60,13747
+SIC,Sicilia,fragili_immunocompromessi,2256
+SIC,Sicilia,Ospiti RSA,16795
+SIC,Sicilia,Over 60,31036
+TOS,Toscana,fragili_immunocompromessi,2371
+TOS,Toscana,Ospiti RSA,24388
+TOS,Toscana,Over 60,93331
+UMB,Umbria,fragili_immunocompromessi,525
+UMB,Umbria,Ospiti RSA,6927
+UMB,Umbria,Over 60,10704
+VDA,Valle d'Aosta,fragili_immunocompromessi,389
+VDA,Valle d'Aosta,Ospiti RSA,844
+VDA,Valle d'Aosta,Over 60,1027
+VEN,Veneto,fragili_immunocompromessi,10752
+VEN,Veneto,Ospiti RSA,22808
+VEN,Veneto,Over 60,88786
