@@ -33,7 +33,7 @@
             "area":"ABR",
             "reg":"Abruzzo",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":37926
+            "totale_popolazione":25599
         },
         {
             "index":1,
@@ -96,7 +96,7 @@
             "area":"BAS",
             "reg":"Basilicata",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":17055
+            "totale_popolazione":13123
         },
         {
             "index":10,
@@ -159,7 +159,7 @@
             "area":"CAL",
             "reg":"Calabria",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":56617
+            "totale_popolazione":46989
         },
         {
             "index":19,
@@ -222,7 +222,7 @@
             "area":"CAM",
             "reg":"Campania",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":189743
+            "totale_popolazione":118966
         },
         {
             "index":28,
@@ -285,7 +285,7 @@
             "area":"EMR",
             "reg":"Emilia-Romagna",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":133483
+            "totale_popolazione":93108
         },
         {
             "index":37,
@@ -348,7 +348,7 @@
             "area":"FVG",
             "reg":"Friuli-Venezia Giulia",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":31545
+            "totale_popolazione":16661
         },
         {
             "index":46,
@@ -411,7 +411,7 @@
             "area":"LAZ",
             "reg":"Lazio",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":176045
+            "totale_popolazione":136720
         },
         {
             "index":55,
@@ -474,7 +474,7 @@
             "area":"LIG",
             "reg":"Liguria",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":39880
+            "totale_popolazione":21941
         },
         {
             "index":64,
@@ -537,7 +537,7 @@
             "area":"LOM",
             "reg":"Lombardia",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":327195
+            "totale_popolazione":259422
         },
         {
             "index":73,
@@ -600,7 +600,7 @@
             "area":"MAR",
             "reg":"Marche",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":42436
+            "totale_popolazione":17322
         },
         {
             "index":82,
@@ -663,7 +663,7 @@
             "area":"MOL",
             "reg":"Molise",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":8664
+            "totale_popolazione":7326
         },
         {
             "index":91,
@@ -726,7 +726,7 @@
             "area":"PAB",
             "reg":"P.A. Bolzano",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":16481
+            "totale_popolazione":7202
         },
         {
             "index":100,
@@ -789,7 +789,7 @@
             "area":"PAT",
             "reg":"P.A. Trento",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":17534
+            "totale_popolazione":12194
         },
         {
             "index":109,
@@ -852,7 +852,7 @@
             "area":"PIE",
             "reg":"Piemonte",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":120281
+            "totale_popolazione":73315
         },
         {
             "index":118,
@@ -915,7 +915,7 @@
             "area":"PUG",
             "reg":"Puglia",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":134106
+            "totale_popolazione":118740
         },
         {
             "index":127,
@@ -978,7 +978,7 @@
             "area":"SAR",
             "reg":"Sardegna",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":46273
+            "totale_popolazione":34987
         },
         {
             "index":136,
@@ -1041,7 +1041,7 @@
             "area":"SIC",
             "reg":"Sicilia",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":147024
+            "totale_popolazione":83989
         },
         {
             "index":145,
@@ -1104,7 +1104,7 @@
             "area":"TOS",
             "reg":"Toscana",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":111615
+            "totale_popolazione":83047
         },
         {
             "index":154,
@@ -1167,7 +1167,7 @@
             "area":"UMB",
             "reg":"Umbria",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":25225
+            "totale_popolazione":17936
         },
         {
             "index":163,
@@ -1230,7 +1230,7 @@
             "area":"VDA",
             "reg":"Valle d'Aosta",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":3600
+            "totale_popolazione":1840
         },
         {
             "index":172,
@@ -1293,7 +1293,7 @@
             "area":"VEN",
             "reg":"Veneto",
             "categoria_prevalente":"05-11",
-            "totale_popolazione":146775
+            "totale_popolazione":97636
         },
         {
             "index":181,
