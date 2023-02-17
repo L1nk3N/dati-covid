@@ -33,7 +33,7 @@
             "area":"ABR",
             "reg":"Abruzzo",
             "eta":"00-04",
-            "totale_popolazione":38215
+            "totale_popolazione":37923
         },
         {
             "index":1,
@@ -103,7 +103,7 @@
             "area":"BAS",
             "reg":"Basilicata",
             "eta":"00-04",
-            "totale_popolazione":14477
+            "totale_popolazione":15345
         },
         {
             "index":11,
@@ -173,7 +173,7 @@
             "area":"CAL",
             "reg":"Calabria",
             "eta":"00-04",
-            "totale_popolazione":57052
+            "totale_popolazione":61188
         },
         {
             "index":21,
@@ -243,7 +243,7 @@
             "area":"CAM",
             "reg":"Campania",
             "eta":"00-04",
-            "totale_popolazione":188395
+            "totale_popolazione":202113
         },
         {
             "index":31,
@@ -313,7 +313,7 @@
             "area":"EMR",
             "reg":"Emilia-Romagna",
             "eta":"00-04",
-            "totale_popolazione":134379
+            "totale_popolazione":136020
         },
         {
             "index":41,
@@ -383,7 +383,7 @@
             "area":"FVG",
             "reg":"Friuli-Venezia Giulia",
             "eta":"00-04",
-            "totale_popolazione":33274
+            "totale_popolazione":33304
         },
         {
             "index":51,
@@ -453,7 +453,7 @@
             "area":"LAZ",
             "reg":"Lazio",
             "eta":"00-04",
-            "totale_popolazione":187623
+            "totale_popolazione":180276
         },
         {
             "index":61,
@@ -523,7 +523,7 @@
             "area":"LIG",
             "reg":"Liguria",
             "eta":"00-04",
-            "totale_popolazione":40150
+            "totale_popolazione":40092
         },
         {
             "index":71,
@@ -593,7 +593,7 @@
             "area":"LOM",
             "reg":"Lombardia",
             "eta":"00-04",
-            "totale_popolazione":318582
+            "totale_popolazione":317434
         },
         {
             "index":81,
@@ -663,7 +663,7 @@
             "area":"MAR",
             "reg":"Marche",
             "eta":"00-04",
-            "totale_popolazione":44881
+            "totale_popolazione":41785
         },
         {
             "index":91,
@@ -733,7 +733,7 @@
             "area":"MOL",
             "reg":"Molise",
             "eta":"00-04",
-            "totale_popolazione":7754
+            "totale_popolazione":7737
         },
         {
             "index":101,
@@ -803,7 +803,7 @@
             "area":"PAB",
             "reg":"P.A. Bolzano",
             "eta":"00-04",
-            "totale_popolazione":19357
+            "totale_popolazione":18751
         },
         {
             "index":111,
@@ -873,7 +873,7 @@
             "area":"PAT",
             "reg":"P.A. Trento",
             "eta":"00-04",
-            "totale_popolazione":18032
+            "totale_popolazione":123666
         },
         {
             "index":121,
@@ -943,7 +943,7 @@
             "area":"PIE",
             "reg":"Piemonte",
             "eta":"00-04",
-            "totale_popolazione":123833
+            "totale_popolazione":22780
         },
         {
             "index":131,
@@ -1013,7 +1013,7 @@
             "area":"PUG",
             "reg":"Puglia",
             "eta":"00-04",
-            "totale_popolazione":120221
+            "totale_popolazione":122367
         },
         {
             "index":141,
@@ -1083,7 +1083,7 @@
             "area":"SAR",
             "reg":"Sardegna",
             "eta":"00-04",
-            "totale_popolazione":41936
+            "totale_popolazione":37547
         },
         {
             "index":151,
@@ -1153,7 +1153,7 @@
             "area":"SIC",
             "reg":"Sicilia",
             "eta":"00-04",
-            "totale_popolazione":155198
+            "totale_popolazione":167357
         },
         {
             "index":161,
@@ -1223,7 +1223,7 @@
             "area":"TOS",
             "reg":"Toscana",
             "eta":"00-04",
-            "totale_popolazione":107385
+            "totale_popolazione":104623
         },
         {
             "index":171,
@@ -1293,7 +1293,7 @@
             "area":"UMB",
             "reg":"Umbria",
             "eta":"00-04",
-            "totale_popolazione":24979
+            "totale_popolazione":23551
         },
         {
             "index":181,
@@ -1363,7 +1363,7 @@
             "area":"VDA",
             "reg":"Valle d'Aosta",
             "eta":"00-04",
-            "totale_popolazione":3730
+            "totale_popolazione":3585
         },
         {
             "index":191,
@@ -1433,7 +1433,7 @@
             "area":"VEN",
             "reg":"Veneto",
             "eta":"00-04",
-            "totale_popolazione":148570
+            "totale_popolazione":148864
         },
         {
             "index":201,
