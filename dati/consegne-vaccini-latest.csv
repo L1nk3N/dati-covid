@@ -618,6 +618,7 @@ CAL,Pfizer Pediatrico,4800,2022-11-22,ITF,ITF6,18,Calabria
 CAL,Novavax,100,2022-12-21,ITF,ITF6,18,Calabria
 CAL,Sanofi,7200,2023-01-10,ITF,ITF6,18,Calabria
 CAL,Pfizer/BioNTech,14400,2023-01-30,ITF,ITF6,18,Calabria
+CAL,Sanofi,2400,2023-02-20,ITF,ITF6,18,Calabria
 CAM,Pfizer/BioNTech,720,2020-12-27,ITF,ITF3,15,Campania
 CAM,Pfizer/BioNTech,30225,2020-12-30,ITF,ITF3,15,Campania
 CAM,Pfizer/BioNTech,2925,2020-12-31,ITF,ITF3,15,Campania
@@ -3312,7 +3313,7 @@ LAZ,Pfizer/BioNTech,35,2021-12-18,ITI,ITI4,12,Lazio
 LAZ,Moderna,268,2021-12-19,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,17,2021-12-19,ITI,ITI4,12,Lazio
 LAZ,Moderna,662,2021-12-20,ITI,ITI4,12,Lazio
-LAZ,Pfizer/BioNTech,121,2021-12-20,ITI,ITI4,12,Lazio
+LAZ,Pfizer/BioNTech,122,2021-12-20,ITI,ITI4,12,Lazio
 LAZ,Moderna,671,2021-12-21,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,103,2021-12-21,ITI,ITI4,12,Lazio
 LAZ,Moderna,78811,2021-12-22,ITI,ITI4,12,Lazio
@@ -3666,6 +3667,9 @@ LAZ,Pfizer/BioNTech,48000,2023-01-30,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,9,2023-02-01,ITI,ITI4,12,Lazio
 LAZ,Moderna,3,2023-02-07,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,6,2023-02-08,ITI,ITI4,12,Lazio
+LAZ,Pfizer/BioNTech,3,2023-03-01,ITI,ITI4,12,Lazio
+LAZ,Pfizer/BioNTech,1,2023-03-23,ITI,ITI4,12,Lazio
+LAZ,Pfizer/BioNTech,5,2023-04-05,ITI,ITI4,12,Lazio
 LIG,Pfizer/BioNTech,320,2020-12-27,ITC,ITC3,7,Liguria
 LIG,Pfizer/BioNTech,15600,2020-12-30,ITC,ITC3,7,Liguria
 LIG,Pfizer/BioNTech,11700,2021-01-05,ITC,ITC3,7,Liguria
@@ -4681,6 +4685,7 @@ MAR,Pfizer Pediatrico,4800,2022-11-23,ITI,ITI3,11,Marche
 MAR,Pfizer/BioNTech,20160,2022-11-24,ITI,ITI3,11,Marche
 MAR,Sanofi,2400,2023-01-10,ITI,ITI3,11,Marche
 MAR,Pfizer/BioNTech,28800,2023-01-11,ITI,ITI3,11,Marche
+MAR,Moderna,12000,2023-02-20,ITI,ITI3,11,Marche
 MOL,Pfizer/BioNTech,50,2020-12-27,ITF,ITF2,14,Molise
 MOL,Pfizer/BioNTech,2925,2020-12-30,ITF,ITF2,14,Molise
 MOL,Pfizer/BioNTech,1950,2021-01-05,ITF,ITF2,14,Molise
@@ -5016,6 +5021,7 @@ PAB,Pfizer Pediatrico,4800,2022-10-31,ITH,ITH1,4,Provincia Autonoma Bolzano / Bo
 PAB,Moderna,4200,2022-11-22,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 PAB,Pfizer Pediatrico,4800,2022-11-23,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 PAB,Moderna,2,2022-12-21,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+PAB,Pfizer/BioNTech,500,2023-04-03,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 PAT,Pfizer/BioNTech,100,2020-12-27,ITH,ITH2,4,Provincia Autonoma Trento
 PAT,Pfizer/BioNTech,4875,2020-12-30,ITH,ITH2,4,Provincia Autonoma Trento
 PAT,Pfizer/BioNTech,1950,2021-01-05,ITH,ITH2,4,Provincia Autonoma Trento
@@ -5167,6 +5173,7 @@ PAT,Moderna,7800,2022-09-26,ITH,ITH2,4,Provincia Autonoma Trento
 PAT,Pfizer/BioNTech,-30,2022-10-26,ITH,ITH2,4,Provincia Autonoma Trento
 PAT,Pfizer Pediatrico,4800,2022-10-31,ITH,ITH2,4,Provincia Autonoma Trento
 PAT,Pfizer Pediatrico,4800,2022-11-23,ITH,ITH2,4,Provincia Autonoma Trento
+PAT,Pfizer/BioNTech,-500,2023-04-03,ITH,ITH2,4,Provincia Autonoma Trento
 PIE,Pfizer/BioNTech,910,2020-12-27,ITC,ITC1,1,Piemonte
 PIE,Pfizer/BioNTech,39000,2020-12-30,ITC,ITC1,1,Piemonte
 PIE,Pfizer/BioNTech,975,2020-12-31,ITC,ITC1,1,Piemonte
@@ -5559,7 +5566,7 @@ PUG,Pfizer/BioNTech,79561,2021-03-22,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),594,2021-03-22,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),672,2021-03-23,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,1,2021-03-24,ITF,ITF4,16,Puglia
-PUG,Vaxzevria (AstraZeneca),511,2021-03-24,ITF,ITF4,16,Puglia
+PUG,Vaxzevria (AstraZeneca),512,2021-03-24,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),18831,2021-03-25,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),405,2021-03-26,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,1,2021-03-27,ITF,ITF4,16,Puglia
@@ -5933,7 +5940,7 @@ PUG,Moderna,93,2021-12-17,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,60,2021-12-17,ITF,ITF4,16,Puglia
 PUG,Moderna,1,2021-12-19,ITF,ITF4,16,Puglia
 PUG,Moderna,123,2021-12-20,ITF,ITF4,16,Puglia
-PUG,Pfizer/BioNTech,84,2021-12-20,ITF,ITF4,16,Puglia
+PUG,Pfizer/BioNTech,83,2021-12-20,ITF,ITF4,16,Puglia
 PUG,Moderna,139,2021-12-21,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,240,2021-12-21,ITF,ITF4,16,Puglia
 PUG,Moderna,165,2021-12-22,ITF,ITF4,16,Puglia
