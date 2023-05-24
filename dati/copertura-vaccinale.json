@@ -93,24 +93,24 @@
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"60-69",
-            "guariti":6154,
-            "vaccinati":4552
+            "guariti":1472,
+            "vaccinati":979
         },
         {
             "index":8,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"70-79",
-            "guariti":5070,
-            "vaccinati":6101
+            "guariti":1125,
+            "vaccinati":1330
         },
         {
             "index":9,
             "area":"ABR",
             "nome_area":"Abruzzo",
             "fascia_anagrafica":"80+",
-            "guariti":3692,
-            "vaccinati":4900
+            "guariti":818,
+            "vaccinati":1123
         },
         {
             "index":10,
@@ -173,24 +173,24 @@
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"60-69",
-            "guariti":990,
-            "vaccinati":1543
+            "guariti":257,
+            "vaccinati":253
         },
         {
             "index":18,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"70-79",
-            "guariti":638,
-            "vaccinati":1692
+            "guariti":181,
+            "vaccinati":321
         },
         {
             "index":19,
             "area":"BAS",
             "nome_area":"Basilicata",
             "fascia_anagrafica":"80+",
-            "guariti":404,
-            "vaccinati":1225
+            "guariti":147,
+            "vaccinati":238
         },
         {
             "index":20,
@@ -253,24 +253,24 @@
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"60-69",
-            "guariti":2975,
-            "vaccinati":3099
+            "guariti":648,
+            "vaccinati":588
         },
         {
             "index":28,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"70-79",
-            "guariti":2021,
-            "vaccinati":3819
+            "guariti":391,
+            "vaccinati":702
         },
         {
             "index":29,
             "area":"CAL",
             "nome_area":"Calabria",
             "fascia_anagrafica":"80+",
-            "guariti":880,
-            "vaccinati":2622
+            "guariti":186,
+            "vaccinati":546
         },
         {
             "index":30,
@@ -333,24 +333,24 @@
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"60-69",
-            "guariti":16326,
-            "vaccinati":10812
+            "guariti":6242,
+            "vaccinati":2613
         },
         {
             "index":38,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"70-79",
-            "guariti":12500,
-            "vaccinati":13109
+            "guariti":4851,
+            "vaccinati":3576
         },
         {
             "index":39,
             "area":"CAM",
             "nome_area":"Campania",
             "fascia_anagrafica":"80+",
-            "guariti":8179,
-            "vaccinati":9229
+            "guariti":3457,
+            "vaccinati":3413
         },
         {
             "index":40,
@@ -413,24 +413,24 @@
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"60-69",
-            "guariti":13571,
-            "vaccinati":27569
+            "guariti":4453,
+            "vaccinati":7689
         },
         {
             "index":48,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"70-79",
-            "guariti":11856,
-            "vaccinati":33868
+            "guariti":3884,
+            "vaccinati":10488
         },
         {
             "index":49,
             "area":"EMR",
             "nome_area":"Emilia-Romagna",
             "fascia_anagrafica":"80+",
-            "guariti":13139,
-            "vaccinati":30228
+            "guariti":4710,
+            "vaccinati":10493
         },
         {
             "index":50,
@@ -493,24 +493,24 @@
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"60-69",
-            "guariti":3893,
-            "vaccinati":5632
+            "guariti":1215,
+            "vaccinati":1366
         },
         {
             "index":58,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"70-79",
-            "guariti":3376,
-            "vaccinati":7222
+            "guariti":998,
+            "vaccinati":1857
         },
         {
             "index":59,
             "area":"FVG",
             "nome_area":"Friuli-Venezia Giulia",
             "fascia_anagrafica":"80+",
-            "guariti":2698,
-            "vaccinati":5878
+            "guariti":1022,
+            "vaccinati":1690
         },
         {
             "index":60,
@@ -573,24 +573,24 @@
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"60-69",
-            "guariti":13889,
-            "vaccinati":22028
+            "guariti":4461,
+            "vaccinati":4730
         },
         {
             "index":68,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"70-79",
-            "guariti":9036,
-            "vaccinati":27409
+            "guariti":2511,
+            "vaccinati":6486
         },
         {
             "index":69,
             "area":"LAZ",
             "nome_area":"Lazio",
             "fascia_anagrafica":"80+",
-            "guariti":5143,
-            "vaccinati":21275
+            "guariti":1546,
+            "vaccinati":6224
         },
         {
             "index":70,
@@ -653,24 +653,24 @@
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"60-69",
-            "guariti":1707,
-            "vaccinati":8860
+            "guariti":166,
+            "vaccinati":2383
         },
         {
             "index":78,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"70-79",
-            "guariti":1205,
-            "vaccinati":11637
+            "guariti":136,
+            "vaccinati":3294
         },
         {
             "index":79,
             "area":"LIG",
             "nome_area":"Liguria",
             "fascia_anagrafica":"80+",
-            "guariti":878,
-            "vaccinati":10408
+            "guariti":131,
+            "vaccinati":3569
         },
         {
             "index":80,
@@ -733,24 +733,24 @@
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"60-69",
-            "guariti":24659,
-            "vaccinati":59921
+            "guariti":8729,
+            "vaccinati":12667
         },
         {
             "index":88,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"70-79",
-            "guariti":21518,
-            "vaccinati":70490
+            "guariti":7624,
+            "vaccinati":17103
         },
         {
             "index":89,
             "area":"LOM",
             "nome_area":"Lombardia",
             "fascia_anagrafica":"80+",
-            "guariti":20274,
-            "vaccinati":60852
+            "guariti":7889,
+            "vaccinati":19714
         },
         {
             "index":90,
@@ -813,24 +813,24 @@
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"60-69",
-            "guariti":7660,
-            "vaccinati":5196
+            "guariti":1748,
+            "vaccinati":1028
         },
         {
             "index":98,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"70-79",
-            "guariti":6540,
-            "vaccinati":6695
+            "guariti":1421,
+            "vaccinati":1370
         },
         {
             "index":99,
             "area":"MAR",
             "nome_area":"Marche",
             "fascia_anagrafica":"80+",
-            "guariti":5709,
-            "vaccinati":6209
+            "guariti":1526,
+            "vaccinati":1401
         },
         {
             "index":100,
@@ -893,24 +893,24 @@
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"60-69",
-            "guariti":882,
-            "vaccinati":901
+            "guariti":190,
+            "vaccinati":132
         },
         {
             "index":108,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"70-79",
-            "guariti":685,
-            "vaccinati":1057
+            "guariti":139,
+            "vaccinati":165
         },
         {
             "index":109,
             "area":"MOL",
             "nome_area":"Molise",
             "fascia_anagrafica":"80+",
-            "guariti":384,
-            "vaccinati":842
+            "guariti":104,
+            "vaccinati":174
         },
         {
             "index":110,
@@ -973,24 +973,24 @@
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"60-69",
-            "guariti":309,
-            "vaccinati":1079
+            "guariti":14,
+            "vaccinati":245
         },
         {
             "index":118,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"70-79",
-            "guariti":200,
-            "vaccinati":1375
+            "guariti":24,
+            "vaccinati":334
         },
         {
             "index":119,
             "area":"PAB",
             "nome_area":"P.A. Bolzano",
             "fascia_anagrafica":"80+",
-            "guariti":194,
-            "vaccinati":1170
+            "guariti":28,
+            "vaccinati":274
         },
         {
             "index":120,
@@ -1053,24 +1053,24 @@
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"60-69",
-            "guariti":1289,
-            "vaccinati":2257
+            "guariti":568,
+            "vaccinati":521
         },
         {
             "index":128,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"70-79",
-            "guariti":1061,
-            "vaccinati":2734
+            "guariti":475,
+            "vaccinati":660
         },
         {
             "index":129,
             "area":"PAT",
             "nome_area":"P.A. Trento",
             "fascia_anagrafica":"80+",
-            "guariti":878,
-            "vaccinati":2381
+            "guariti":479,
+            "vaccinati":749
         },
         {
             "index":130,
@@ -1133,24 +1133,24 @@
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"60-69",
-            "guariti":8963,
-            "vaccinati":39653
+            "guariti":1769,
+            "vaccinati":18186
         },
         {
             "index":138,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"70-79",
-            "guariti":8245,
-            "vaccinati":36396
+            "guariti":1686,
+            "vaccinati":17645
         },
         {
             "index":139,
             "area":"PIE",
             "nome_area":"Piemonte",
             "fascia_anagrafica":"80+",
-            "guariti":8722,
-            "vaccinati":61565
+            "guariti":1995,
+            "vaccinati":19229
         },
         {
             "index":140,
@@ -1213,24 +1213,24 @@
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"60-69",
-            "guariti":10795,
-            "vaccinati":16376
+            "guariti":4114,
+            "vaccinati":3038
         },
         {
             "index":148,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"70-79",
-            "guariti":8917,
-            "vaccinati":20054
+            "guariti":3493,
+            "vaccinati":4061
         },
         {
             "index":149,
             "area":"PUG",
             "nome_area":"Puglia",
             "fascia_anagrafica":"80+",
-            "guariti":6421,
-            "vaccinati":13954
+            "guariti":3090,
+            "vaccinati":3162
         },
         {
             "index":150,
@@ -1293,24 +1293,24 @@
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"60-69",
-            "guariti":3986,
-            "vaccinati":5910
+            "guariti":1197,
+            "vaccinati":1000
         },
         {
             "index":158,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"70-79",
-            "guariti":2744,
-            "vaccinati":7202
+            "guariti":805,
+            "vaccinati":1274
         },
         {
             "index":159,
             "area":"SAR",
             "nome_area":"Sardegna",
             "fascia_anagrafica":"80+",
-            "guariti":2179,
-            "vaccinati":4423
+            "guariti":661,
+            "vaccinati":997
         },
         {
             "index":160,
@@ -1373,24 +1373,24 @@
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"60-69",
-            "guariti":4756,
-            "vaccinati":12574
+            "guariti":749,
+            "vaccinati":2512
         },
         {
             "index":168,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"70-79",
-            "guariti":3817,
-            "vaccinati":15641
+            "guariti":574,
+            "vaccinati":3428
         },
         {
             "index":169,
             "area":"SIC",
             "nome_area":"Sicilia",
             "fascia_anagrafica":"80+",
-            "guariti":2303,
-            "vaccinati":11279
+            "guariti":436,
+            "vaccinati":3383
         },
         {
             "index":170,
@@ -1453,24 +1453,24 @@
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"60-69",
-            "guariti":9801,
-            "vaccinati":23645
+            "guariti":3005,
+            "vaccinati":6007
         },
         {
             "index":178,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"70-79",
-            "guariti":8314,
-            "vaccinati":30303
+            "guariti":2571,
+            "vaccinati":8281
         },
         {
             "index":179,
             "area":"TOS",
             "nome_area":"Toscana",
             "fascia_anagrafica":"80+",
-            "guariti":7037,
-            "vaccinati":24341
+            "guariti":2738,
+            "vaccinati":7060
         },
         {
             "index":180,
@@ -1533,24 +1533,24 @@
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"60-69",
-            "guariti":3851,
-            "vaccinati":3036
+            "guariti":1686,
+            "vaccinati":997
         },
         {
             "index":188,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"70-79",
-            "guariti":3213,
-            "vaccinati":4150
+            "guariti":1323,
+            "vaccinati":1401
         },
         {
             "index":189,
             "area":"UMB",
             "nome_area":"Umbria",
             "fascia_anagrafica":"80+",
-            "guariti":2899,
-            "vaccinati":3222
+            "guariti":1274,
+            "vaccinati":1231
         },
         {
             "index":190,
@@ -1613,24 +1613,24 @@
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"60-69",
-            "guariti":76,
-            "vaccinati":367
+            "guariti":12,
+            "vaccinati":72
         },
         {
             "index":198,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"70-79",
-            "guariti":54,
-            "vaccinati":425
+            "guariti":2,
+            "vaccinati":78
         },
         {
             "index":199,
             "area":"VDA",
             "nome_area":"Valle d'Aosta",
             "fascia_anagrafica":"80+",
-            "guariti":47,
-            "vaccinati":375
+            "guariti":7,
+            "vaccinati":91
         },
         {
             "index":200,
@@ -1693,24 +1693,24 @@
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"60-69",
-            "guariti":22046,
-            "vaccinati":19804
+            "guariti":7040,
+            "vaccinati":4077
         },
         {
             "index":208,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"70-79",
-            "guariti":18369,
-            "vaccinati":23365
+            "guariti":5778,
+            "vaccinati":5139
         },
         {
             "index":209,
             "area":"VEN",
             "nome_area":"Veneto",
             "fascia_anagrafica":"80+",
-            "guariti":17984,
-            "vaccinati":17910
+            "guariti":7137,
+            "vaccinati":5384
         }
     ]
 }
