@@ -140,11 +140,11 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2020-12-27,Pfizer/BioNTech,VDA,40-49,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC2,2.0,Valle d'Aosta / Vallée d'Aoste
 2020-12-27,Pfizer/BioNTech,VDA,50-59,4.0,5.0,9.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC2,2.0,Valle d'Aosta / Vallée d'Aoste
 2020-12-27,Pfizer/BioNTech,VDA,60-69,3.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC2,2.0,Valle d'Aosta / Vallée d'Aoste
-2020-12-27,Pfizer/BioNTech,VEN,20-29,22.0,53.0,67.0,0.0,8.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-27,Pfizer/BioNTech,VEN,30-39,62.0,57.0,117.0,0.0,2.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-27,Pfizer/BioNTech,VEN,40-49,51.0,105.0,156.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-27,Pfizer/BioNTech,VEN,50-59,121.0,217.0,338.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-27,Pfizer/BioNTech,VEN,60-69,133.0,51.0,182.0,0.0,2.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-27,Pfizer/BioNTech,VEN,20-29,21.0,52.0,65.0,0.0,8.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-27,Pfizer/BioNTech,VEN,30-39,62.0,56.0,113.0,0.0,5.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-27,Pfizer/BioNTech,VEN,40-49,51.0,104.0,153.0,0.0,2.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-27,Pfizer/BioNTech,VEN,50-59,121.0,217.0,336.0,0.0,2.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-27,Pfizer/BioNTech,VEN,60-69,132.0,51.0,181.0,0.0,2.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
 2020-12-27,Pfizer/BioNTech,VEN,70-79,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
 2020-12-28,Moderna,FVG,30-39,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH4,6.0,Friuli-Venezia Giulia
 2020-12-28,Moderna,LAZ,20-29,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,ITI,ITI4,12.0,Lazio
@@ -271,11 +271,11 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2020-12-30,Pfizer/BioNTech,PAT,70-79,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH2,4.0,Provincia Autonoma Trento
 2020-12-30,Pfizer/BioNTech,PAT,80-89,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH2,4.0,Provincia Autonoma Trento
 2020-12-30,Pfizer/BioNTech,PAT,90+,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH2,4.0,Provincia Autonoma Trento
-2020-12-30,Pfizer/BioNTech,PIE,20-29,49.0,84.0,133.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
+2020-12-30,Pfizer/BioNTech,PIE,20-29,49.0,85.0,134.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
 2020-12-30,Pfizer/BioNTech,PIE,30-39,65.0,44.0,109.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
 2020-12-30,Pfizer/BioNTech,PIE,40-49,79.0,108.0,187.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
 2020-12-30,Pfizer/BioNTech,PIE,50-59,80.0,145.0,225.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
-2020-12-30,Pfizer/BioNTech,PIE,60-69,56.0,47.0,103.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
+2020-12-30,Pfizer/BioNTech,PIE,60-69,57.0,47.0,104.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
 2020-12-30,Pfizer/BioNTech,PUG,40-49,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,ITF,ITF4,16.0,Puglia
 2020-12-30,Pfizer/BioNTech,SIC,20-29,15.0,12.0,27.0,0.0,0.0,0.0,0.0,0.0,ITG,ITG1,19.0,Sicilia
 2020-12-30,Pfizer/BioNTech,SIC,30-39,32.0,31.0,63.0,0.0,0.0,0.0,0.0,0.0,ITG,ITG1,19.0,Sicilia
@@ -292,9 +292,9 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2020-12-30,Pfizer/BioNTech,TOS,80-89,24.0,84.0,108.0,0.0,0.0,0.0,0.0,0.0,ITI,ITI1,9.0,Toscana
 2020-12-30,Pfizer/BioNTech,TOS,90+,11.0,65.0,76.0,0.0,0.0,0.0,0.0,0.0,ITI,ITI1,9.0,Toscana
 2020-12-30,Pfizer/BioNTech,VEN,20-29,14.0,38.0,47.0,0.0,5.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-30,Pfizer/BioNTech,VEN,30-39,46.0,76.0,115.0,0.0,7.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-30,Pfizer/BioNTech,VEN,40-49,57.0,144.0,196.0,0.0,5.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-30,Pfizer/BioNTech,VEN,50-59,66.0,150.0,212.0,0.0,4.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-30,Pfizer/BioNTech,VEN,30-39,46.0,76.0,112.0,0.0,10.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-30,Pfizer/BioNTech,VEN,40-49,57.0,144.0,193.0,0.0,8.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-30,Pfizer/BioNTech,VEN,50-59,66.0,150.0,210.0,0.0,6.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
 2020-12-30,Pfizer/BioNTech,VEN,60-69,46.0,27.0,72.0,0.0,1.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
 2020-12-30,Pfizer/BioNTech,VEN,70-79,4.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
 2020-12-30,Pfizer/BioNTech,VEN,80-89,10.0,10.0,20.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
@@ -368,9 +368,9 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2020-12-31,Pfizer/BioNTech,PAT,80-89,76.0,204.0,279.0,0.0,1.0,0.0,0.0,0.0,ITH,ITH2,4.0,Provincia Autonoma Trento
 2020-12-31,Pfizer/BioNTech,PAT,90+,21.0,190.0,211.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH2,4.0,Provincia Autonoma Trento
 2020-12-31,Pfizer/BioNTech,PIE,12-19,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
-2020-12-31,Pfizer/BioNTech,PIE,20-29,119.0,251.0,369.0,0.0,1.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
-2020-12-31,Pfizer/BioNTech,PIE,30-39,261.0,398.0,657.0,0.0,2.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
-2020-12-31,Pfizer/BioNTech,PIE,40-49,264.0,700.0,963.0,0.0,1.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
+2020-12-31,Pfizer/BioNTech,PIE,20-29,119.0,252.0,370.0,0.0,1.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
+2020-12-31,Pfizer/BioNTech,PIE,30-39,262.0,398.0,658.0,0.0,2.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
+2020-12-31,Pfizer/BioNTech,PIE,40-49,264.0,701.0,964.0,0.0,1.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
 2020-12-31,Pfizer/BioNTech,PIE,50-59,399.0,935.0,1331.0,0.0,3.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
 2020-12-31,Pfizer/BioNTech,PIE,60-69,269.0,231.0,500.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
 2020-12-31,Pfizer/BioNTech,PIE,70-79,19.0,16.0,35.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
@@ -416,11 +416,11 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2020-12-31,Pfizer/BioNTech,VDA,50-59,3.0,7.0,10.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC2,2.0,Valle d'Aosta / Vallée d'Aoste
 2020-12-31,Pfizer/BioNTech,VDA,60-69,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC2,2.0,Valle d'Aosta / Vallée d'Aoste
 2020-12-31,Pfizer/BioNTech,VEN,12-19,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-31,Pfizer/BioNTech,VEN,20-29,93.0,255.0,311.0,0.0,37.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-31,Pfizer/BioNTech,VEN,30-39,186.0,314.0,476.0,0.0,24.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-31,Pfizer/BioNTech,VEN,40-49,201.0,562.0,740.0,0.0,23.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-31,Pfizer/BioNTech,VEN,50-59,279.0,691.0,964.0,0.0,6.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-31,Pfizer/BioNTech,VEN,60-69,234.0,162.0,393.0,0.0,3.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2020-12-31,Pfizer/BioNTech,VEN,70-79,18.0,29.0,44.0,0.0,3.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-31,Pfizer/BioNTech,VEN,20-29,93.0,256.0,299.0,0.0,50.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-31,Pfizer/BioNTech,VEN,30-39,186.0,314.0,468.0,0.0,32.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-31,Pfizer/BioNTech,VEN,40-49,201.0,563.0,738.0,0.0,26.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-31,Pfizer/BioNTech,VEN,50-59,279.0,691.0,957.0,0.0,13.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-31,Pfizer/BioNTech,VEN,60-69,234.0,162.0,389.0,0.0,7.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
+2020-12-31,Pfizer/BioNTech,VEN,70-79,18.0,29.0,43.0,0.0,4.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
 2020-12-31,Pfizer/BioNTech,VEN,80-89,24.0,74.0,97.0,0.0,1.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
 2020-12-31,Pfizer/BioNTech,VEN,90+,6.0,92.0,97.0,0.0,1.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
