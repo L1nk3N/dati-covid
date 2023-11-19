@@ -1,7 +1,7 @@
 <h1 align="center">Covid-19 Opendata Vaccini</h1>
 
 <div align="center">
-<img src="ministero.png" width="150">
+<img src="ministero.png" width="350">
 </div>
 <div align="center">
   Questo repository contiene i dati in formato aperto relativi ai vaccini anti COVID-19
@@ -144,7 +144,16 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di second booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della prima dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.|
 
 **punti-somministrazione-latest**
-schema mancante
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| area | string | Regione. |
+| provincia | string | Provincia |
+| comune | string | Comune |
+| presidio_ospedaliero | string | Presidio di somministrazione. |
+| N1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| N2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| ISTAT | integer | Codice ISTAT della Regione. |
+| reg | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
 
 **punti-somministrazione-tipologia**
