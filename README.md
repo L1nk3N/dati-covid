@@ -40,9 +40,9 @@ Nella cartella dati si possono trovare 20 tabelle in formato json e csv:
 *   **somministrazioni-vaccini-latest-2021**: dati sulle somministrazioni giornaliere dei vaccini suddivisi per regioni e fasce d'età dei soggetti vaccinati riferiti all'anno 2021.
 *   **somministrazioni-vaccini-latest-2022**: dati sulle somministrazioni giornaliere dei vaccini suddivisi per regioni e fasce d'età dei soggetti vaccinati riferiti all'anno 2022.
 *   **somministrazioni-vaccini-latest-2023**: dati sulle somministrazioni giornaliere dei vaccini suddivisi per regioni e fasce d'età dei soggetti vaccinati riferiti all'anno 2023.
-*   **somministrazioni-vaccini-summary-latest**: dati sul totale delle somministrazioni giornaliere per regioni dei soggetti vaccinati.
-*   **somministrazioni-vaccini-latest-campagna-2023-2024**: dati sulle somministrazioni giornaliere dei vaccini suddivisi per regioni e fasce d'età dei soggetti vaccinati e riferiti alla **Campagna Vaccinale 2023-2024** in vigore dal 25/09/2023.
-*   **somministrazioni-vaccini-summary-latest-campagna-2023-2024**: dati sul totale delle somministrazioni giornaliere per regioni dei soggetti vaccinati e riferiti alla **Campagna Vaccinale 2023-2024** in vigore dal 25/09/2023..
+*   **somministrazioni-vaccini-summary-latest**: dati sul totale delle somministrazioni giornaliere per regioni dei soggetti vaccinati riferiti all'andamento della Campagna Vaccinale fino al 24/09/2023.
+*   **somministrazioni-vaccini-latest-campagna-2023-2024**: dati sulle somministrazioni dei vaccini suddivisi per regioni e fasce d'età dei soggetti vaccinati e riferiti alla **Campagna Vaccinale 2023-2024** in vigore dal 25/09/2023.
+*   **somministrazioni-vaccini-summary-latest-campagna-2023-2024**: dati sul totale delle somministrazioni per regioni dei soggetti vaccinati e riferiti alla **Campagna Vaccinale 2023-2024** in vigore dal 25/09/2023..
 *   **vaccini-summary-latest**: dati sul totale delle consegne e somministrazioni avvenute sino ad oggi, includendo la percentuale di dosi somministrate (sul totale delle dosi consegnate) suddivise per regioni.
 
 
