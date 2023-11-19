@@ -248,6 +248,28 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | index | integer | Codice identificativo del record. |
+| area | string | Sigla della regione in cui è avvenuta la somministrazione. |
+| data | datetime | Giorno in cui è avvenuta la somministrazione. |
+| totale | integer | Numero totale di dosi di vaccino somministrate per giorno e regione. |
+| m | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno e regione. |
+| f | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno e regione. |
+| d1 | integer | Numero prime somministrazioni. |
+| d2 | integer | Numero seconde somministrazioni. |
+| dpi | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
+| db1 | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
+| db2 | integer | Numero somministrazioni dose booster immuno/second booster. |
+| db3 | integer | Numero somministrazioni dose terza booster. |
+| N1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| N2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| ISTAT | integer | Codice ISTAT della Regione. |
+| reg | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+
+
+**somministrazioni-vaccini-summary-latest-campagna-2023-204**
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
 | data | datetime | Giorno in cui è avvenuta la somministrazione. |
 | area | string | Sigla della regione in cui è avvenuta la somministrazione. |
 | totale | integer | Numero totale di dosi di vaccino somministrate per giorno e regione. |
