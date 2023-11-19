@@ -10,7 +10,7 @@
 
 # Descrizione repository
 
-Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 20 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
+Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 19 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
 
 
 *   consegne suddivise per data di consegna e regione;
@@ -21,7 +21,7 @@ Questo repository contiene i dati in formato aperto relativi alla consegna e som
 
 # Descrizione dataset
 
-Nella cartella dati si possono trovare 20 tabelle in formato json e csv:
+Nella cartella dati si possono trovare 19 tabelle in formato json e csv:
 
 
 *   **anagrafica-vaccini-summary-latest**: totali delle somministrazioni per fasce d'età.
@@ -30,7 +30,6 @@ Nella cartella dati si possono trovare 20 tabelle in formato json e csv:
 *   **last-update-dataset**: data e ora di ultimo aggiornamento del dataset.
 *   **platea**: dati riferiti alla popolazione vaccinabile suddivisi per Regione/Provincia Autonoma e fascia d'età.
 *   **platea-3a-booster**: la popolazione oggetto di somministrazione di 3ª dose booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della 2ª dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.
-*   **platea-booster-immunocompromessi**: dati riferiti alla popolazione immunocompromessa oggetto di somministrazione di dose booster a seguito del completamento del ciclo vaccinale primario con tre dosi (di cui la terza addizionale) dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa, suddivisa per Regione/Provincia Autonoma.
 *   **platea-dose-addizionale-booster**: dati riferiti alla popolazione oggetto di dose addizionale/richiamo (booster) che ha ultimato il ciclo vaccinale dal almeno 4 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
 *   **platea-second-booster**: dati riferiti alla popolazione oggetto di second booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della prima dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.|
 *   **punti-somministrazione-latest**: punti di somministrazione per ciascuna Regione e Provincia Autonoma.
@@ -113,15 +112,6 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 | categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di 3ª booster. |
 | totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di 3ª dose booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della 2ª dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.|
-
-
-**platea-booster-immunocompromessi**
-| Campo | Tipo di dati | Descrizione |
-| --- | --- | --- |
-| index | integer | Codice identificativo del record. |
-| area | string | Sigla della Regione/Provincia Autonoma. |
-| reg | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
-| totale_popolazione | integer | Numero totale della popolazione immunocompromessa presente in platea oggetto di somministrazione di dose booster a seguito del completamento del ciclo vaccinale primario con tre dosi (di cui la terza addizionale) dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa, diviso per Regione/Provincia Autonoma. |
 
 
 **platea-dose-addizionale-booster**
