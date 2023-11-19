@@ -10,7 +10,7 @@
 
 # Descrizione repository
 
-Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 19 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
+Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 18 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
 
 
 *   consegne suddivise per data di consegna e regione;
@@ -21,7 +21,7 @@ Questo repository contiene i dati in formato aperto relativi alla consegna e som
 
 # Descrizione dataset
 
-Nella cartella dati si possono trovare 19 tabelle in formato json e csv:
+Nella cartella dati si possono trovare 18 tabelle in formato json e csv:
 
 
 *   **anagrafica-vaccini-summary-latest**: totali delle somministrazioni per fasce d'età.
@@ -32,7 +32,6 @@ Nella cartella dati si possono trovare 19 tabelle in formato json e csv:
 *   **platea-3a-booster**: la popolazione oggetto di somministrazione di 3ª dose booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della 2ª dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.
 *   **platea-dose-addizionale-booster**: dati riferiti alla popolazione oggetto di dose addizionale/richiamo (booster) che ha ultimato il ciclo vaccinale dal almeno 4 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
 *   **platea-second-booster**: dati riferiti alla popolazione oggetto di second booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della prima dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.|
-*   **punti-somministrazione-latest**: punti di somministrazione per ciascuna Regione e Provincia Autonoma.
 *   **punti-somministrazione-tipologia**: punti di somministrazione divisi per tipologia per ciascuna Regione e Provincia Autonoma.
 *   **soggetti-guariti**: dati riferiti alla popolazione guarita dall'infezione Covid-19.
 *   **somministrazioni-vaccini-latest-2020**: dati sulle somministrazioni giornaliere dei vaccini suddivisi per regioni e fasce d'età dei soggetti vaccinati riferiti all'anno 2020.
@@ -132,18 +131,6 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | reg | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 | categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di second booster. |
 | totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di second booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della prima dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.|
-
-**punti-somministrazione-latest**
-| Campo | Tipo di dati | Descrizione |
-| --- | --- | --- |
-| area | string | Regione. |
-| provincia | string | Provincia |
-| comune | string | Comune |
-| presidio_ospedaliero | string | Presidio di somministrazione. |
-| N1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
-| N2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
-| ISTAT | integer | Codice ISTAT della Regione. |
-| reg | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
 
 **punti-somministrazione-tipologia**
